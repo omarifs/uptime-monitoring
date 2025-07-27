@@ -3,19 +3,41 @@ owner: omarifs # Your GitHub organization or username, where this repository liv
 repo: uptime-monitoring # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
+  - name: Agrowisata Amanah
+    url: https://agrowisataamanah.id
+  - name: Berkah Multi
+    url: https://berkahmulti.com
+  - name: AdGuard Websolusi
+    url: https://dns.websolusi.com
+  - name: Flask Websolusi
+    url: https://flask.websolusi.com
+  - name: Gama Aims Backend
+    url: https://gamaaims.com/?no_cache
+  - name: KB TK Taman Bahagia
+    url: https://kbtktamanbahagia.sch.id
+  - name: Tools Websolusi
+    url: https://tools.websolusi.com
+  - name: Websolusi
+    url: https://websolusi.com
+  - name: Monit Server (Lessie)
+    url: https://live.websolusi.com
+  - name: VPS Arif 
+    url: 103.161.184.136
+    port: 80
+    check: "tcp-ping"
+  - name: VPS Arif (IPv6)
+    url: 2001:df7:5300:3::15f
     port: 80
     check: "tcp-ping"
     ipv6: true
+  - name: Resolver (17.82)
+    url: 103.123.17.82
+    port: 80
+    check: "tcp-ping"103.161.184.136
+  - name: VPN 16-118 
+    url: 103.123.16.118
+    port: 80
+    check: "tcp-ping"1
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -23,9 +45,9 @@ status-website:
   cname: uptime.websolusi.com
   # baseUrl: /uptime-monitoring
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Uptime Websolsui
+  introTitle: "**Uptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introMessage: This is a status page which uses **real-time** data)
   navbar:
     - title: Status
       href: /
