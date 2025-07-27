@@ -23,20 +23,17 @@ sites:
     url: https://live.websolusi.com
   - name: VPS Arif 
     url: 103.161.184.136
-    port: 80
     check: "tcp-ping"
   - name: VPS Arif (IPv6)
     url: 2001:df7:5300:3::15f
-    port: 80
     check: "tcp-ping"
     ipv6: true
   - name: Resolver (17.82)
     url: 103.123.17.82
-    port: 80
     check: "tcp-ping"
   - name: VPN 16-118 
     url: 103.123.16.118
-    port: 80
+    port: 53
     check: "tcp-ping"
 
 status-website:
