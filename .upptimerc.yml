@@ -26,6 +26,7 @@ sites:
     check: "tcp-ping"
   - name: VPS Arif (IPv6)
     url: tools.websolusi.com
+    port: 80
     check: "tcp-ping"
     ipv6: true
   - name: Resolver (17.82)
