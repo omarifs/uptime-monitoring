@@ -25,11 +25,6 @@ sites:
   - name: VPS Arif 
     url: 103.161.184.136
     check: "tcp-ping"
-  - name: VPS Arif (IPv6)
-    url: tools.websolusi.com
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
   - name: Resolver (17.82)
     url: 103.123.17.82
     port: 53
