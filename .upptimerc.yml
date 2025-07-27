@@ -25,7 +25,7 @@ sites:
     url: 103.161.184.136
     check: "tcp-ping"
   - name: VPS Arif (IPv6)
-    url: 2001:df7:5300:3::15f
+    url: tools.websolusi.com
     check: "tcp-ping"
     ipv6: true
   - name: Resolver (17.82)
