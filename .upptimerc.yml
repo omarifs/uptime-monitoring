@@ -12,7 +12,7 @@ sites:
   - name: Flask Websolusi
     url: https://flask.websolusi.com
   - name: Gama Aims Backend
-    url: https://gamaaims.com/?no_cache
+    url: https://gamaaims.com
   - name: KB TK Taman Bahagia
     url: https://kbtktamanbahagia.sch.id
   - name: Tools Websolusi
@@ -45,7 +45,7 @@ status-website:
   cname: uptime.websolusi.com
   # baseUrl: /uptime-monitoring
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Uptime Websolsui
+  name: Uptime Websolusi
   introTitle: "**Uptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a status page which uses **real-time** data)
   navbar:
