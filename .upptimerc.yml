@@ -37,7 +37,7 @@ sites:
   - name: VPN 16-118 
     url: 103.123.16.118
     port: 80
-    check: "tcp-ping"1
+    check: "tcp-ping"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
