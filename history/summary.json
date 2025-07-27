@@ -76,19 +76,19 @@
     "url": "https://gamaaims.com",
     "icon": "https://icons.duckduckgo.com/ip3/gamaaims.com.ico",
     "slug": "gama-aims-backend",
-    "status": "down",
-    "uptime": "24.80%",
-    "uptimeDay": "24.80%",
-    "uptimeWeek": "24.80%",
-    "uptimeMonth": "24.80%",
-    "uptimeYear": "24.80%",
-    "time": 363,
-    "timeDay": 363,
-    "timeWeek": 363,
-    "timeMonth": 363,
-    "timeYear": 363,
+    "status": "up",
+    "uptime": "20.26%",
+    "uptimeDay": "20.26%",
+    "uptimeWeek": "20.26%",
+    "uptimeMonth": "20.26%",
+    "uptimeYear": "20.26%",
+    "time": 470,
+    "timeDay": 470,
+    "timeWeek": 470,
+    "timeMonth": 470,
+    "timeYear": 470,
     "dailyMinutesDown": {
-      "2025-07-27": 56
+      "2025-07-27": 74
     }
   },
   {
@@ -198,7 +198,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-27": 75
+      "2025-07-27": 93
     }
   },
   {
@@ -207,11 +207,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "resolver-17-82",
     "status": "up",
-    "uptime": "67.66%",
-    "uptimeDay": "67.66%",
-    "uptimeWeek": "67.66%",
-    "uptimeMonth": "67.66%",
-    "uptimeYear": "67.66%",
+    "uptime": "73.87%",
+    "uptimeDay": "73.87%",
+    "uptimeWeek": "73.87%",
+    "uptimeMonth": "73.87%",
+    "uptimeYear": "73.87%",
     "time": 218,
     "timeDay": 218,
     "timeWeek": 218,
