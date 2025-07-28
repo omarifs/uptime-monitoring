@@ -4,19 +4,19 @@
     "url": "https://agrowisataamanah.id",
     "icon": "https://icons.duckduckgo.com/ip3/agrowisataamanah.id.ico",
     "slug": "agrowisata-amanah",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 9468,
-    "timeDay": 5189,
-    "timeWeek": 9468,
-    "timeMonth": 9468,
-    "timeYear": 9468,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
+    "time": 9144,
+    "timeDay": 4944,
+    "timeWeek": 9144,
+    "timeMonth": 9144,
+    "timeYear": 9144,
     "dailyMinutesDown": {
-      "2025-07-28": 2
+      "2025-07-28": 3
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://berkahmulti.com",
     "icon": "https://icons.duckduckgo.com/ip3/berkahmulti.com.ico",
     "slug": "berkah-multi",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 6064,
-    "timeDay": 1262,
-    "timeWeek": 6064,
-    "timeMonth": 6064,
-    "timeYear": 6064,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
+    "time": 5975,
+    "timeDay": 3176,
+    "timeWeek": 5975,
+    "timeMonth": 5975,
+    "timeYear": 5975,
     "dailyMinutesDown": {
-      "2025-07-28": 0
+      "2025-07-28": 1
     }
   },
   {
