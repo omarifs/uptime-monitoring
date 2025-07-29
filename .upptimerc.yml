@@ -41,7 +41,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: uptime.websolusi.com
   #baseUrl: /uptime-monitoring
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svghttps://i.dnva.me/91501668368a2bc-pngaaa.com-4965957.png
+  logoUrl: https://i.dnva.me/91501668368a2bc-pngaaa.com-4965957.png
   name: Uptime Websolusi
   introTitle: "**Uptime Monitoring** is the open-source uptime monitor and status page"
   introMessage: This is a status page which uses **real-time** data
