@@ -12,16 +12,19 @@ sites:
     url: https://dns.websolusi.com
   - name: Flask Websolusi
     url: https://flask.websolusi.com
+    method: "GET"
   - name: Gama Aims Backend
     url: https://gamaaims.com
   - name: Jaya Samudra Agency
     url: https://jayasamudra-agency.com
   - name: KB TK Taman Bahagia
     url: https://kbtktamanbahagia.sch.id
+    method: "GET"
   - name: Tools Websolusi
     url: https://tools.websolusi.com
   - name: Websolusi
     url: https://websolusi.com
+    method: "GET"
   - name: Monit Server (Lessie)
     url: https://live.websolusi.com
   - name: VPS Arif 
