@@ -13,6 +13,8 @@ sites:
   - name: Flask Websolusi
     url: https://flask.websolusi.com
     method: "GET"
+    headers:
+    - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Omarifs"
   - name: Gama Aims Backend
     url: https://gamaaims.com
   - name: Jaya Samudra Agency
@@ -20,13 +22,15 @@ sites:
   - name: KB TK Taman Bahagia
     url: https://kbtktamanbahagia.sch.id
     method: "GET"
+    headers:
+    - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Omarifs"
   - name: Tools Websolusi
     url: https://tools.websolusi.com
   - name: Websolusi
     url: https://websolusi.com
     method: "GET"
     headers:
-    - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) Omarifs"
+    - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Omarifs"
   - name: Monit Server (Lessie)
     url: https://live.websolusi.com
   - name: VPS Arif 
