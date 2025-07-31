@@ -6,8 +6,14 @@ user-agent: omarifs
 sites:
   - name: Agrowisata Amanah
     url: https://agrowisataamanah.id
+    method: "GET"
+    headers:
+    - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Omarifs"
   - name: Berkah Multi
     url: https://berkahmulti.com
+    method: "GET"
+    headers:
+    - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Omarifs"
   - name: AdGuard Websolusi
     url: https://dns.websolusi.com
   - name: Flask Websolusi
@@ -33,6 +39,9 @@ sites:
     - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Omarifs"
   - name: Monit Server (Lessie)
     url: https://live.websolusi.com
+    method: "GET"
+    headers:
+    - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Omarifs"
   - name: VPS Arif 
     url: 103.161.184.136
     check: "tcp-ping"
