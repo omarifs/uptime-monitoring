@@ -4,19 +4,19 @@
     "url": "https://agrowisataamanah.id",
     "icon": "https://icons.duckduckgo.com/ip3/agrowisataamanah.id.ico",
     "slug": "agrowisata-amanah",
-    "status": "down",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.88%",
-    "time": 7825,
-    "timeDay": 8870,
-    "timeWeek": 7337,
-    "timeMonth": 7825,
-    "timeYear": 7825,
+    "time": 7792,
+    "timeDay": 7707,
+    "timeWeek": 7255,
+    "timeMonth": 7792,
+    "timeYear": 7792,
     "dailyMinutesDown": {
-      "2025-08-11": 6,
+      "2025-08-11": 7,
       "2025-07-31": 20
     }
   },
@@ -28,7 +28,7 @@
     "status": "up",
     "uptime": "76.78%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "59.51%",
+    "uptimeWeek": "59.53%",
     "uptimeMonth": "76.78%",
     "uptimeYear": "76.78%",
     "time": 4048,
@@ -50,18 +50,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dns.websolusi.com.ico",
     "slug": "ad-guard-websolusi",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.96%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 1120,
     "timeDay": 1221,
     "timeWeek": 1139,
     "timeMonth": 1120,
     "timeYear": 1120,
     "dailyMinutesDown": {
-      "2025-08-11": 7
+      "2025-08-11": 9
     }
   },
   {
@@ -93,8 +93,8 @@
     "slug": "gama-aims-backend",
     "status": "up",
     "uptime": "98.56%",
-    "uptimeDay": "83.46%",
-    "uptimeWeek": "97.64%",
+    "uptimeDay": "83.38%",
+    "uptimeWeek": "97.63%",
     "uptimeMonth": "98.56%",
     "uptimeYear": "98.56%",
     "time": 868,
@@ -103,7 +103,7 @@
     "timeMonth": 868,
     "timeYear": 868,
     "dailyMinutesDown": {
-      "2025-08-11": 238,
+      "2025-08-11": 239,
       "2025-07-27": 74
     }
   },
