@@ -4,20 +4,18 @@
     "url": "https://agrowisataamanah.id",
     "icon": "https://icons.duckduckgo.com/ip3/agrowisataamanah.id.ico",
     "slug": "agrowisata-amanah",
-    "status": "up",
-    "uptime": "99.92%",
+    "status": "down",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 7742,
     "timeDay": 6532,
     "timeWeek": 7197,
     "timeMonth": 7742,
     "timeYear": 7742,
-    "dailyMinutesDown": {
-      "2025-07-31": 20
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Berkah Multi",
@@ -25,23 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/berkahmulti.com.ico",
     "slug": "berkah-multi",
     "status": "up",
-    "uptime": "78.41%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "75.78%",
-    "uptimeMonth": "78.41%",
-    "uptimeYear": "78.41%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 4005,
     "timeDay": 1672,
     "timeWeek": 4527,
     "timeMonth": 4005,
     "timeYear": 4005,
-    "dailyMinutesDown": {
-      "2025-08-07": 304,
-      "2025-08-06": 1440,
-      "2025-08-05": 1440,
-      "2025-08-04": 1440,
-      "2025-08-03": 417
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "AdGuard Websolusi",
@@ -49,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dns.websolusi.com.ico",
     "slug": "ad-guard-websolusi",
     "status": "up",
-    "uptime": "92.95%",
+    "uptime": "92.55%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "83.66%",
-    "uptimeMonth": "92.95%",
-    "uptimeYear": "92.95%",
+    "uptimeWeek": "82.66%",
+    "uptimeMonth": "92.55%",
+    "uptimeYear": "92.55%",
     "time": 1123,
     "timeDay": 1231,
     "timeWeek": 1151,
     "timeMonth": 1123,
     "timeYear": 1123,
     "dailyMinutesDown": {
-      "2025-08-12": 743,
+      "2025-08-12": 844,
       "2025-08-11": 904
     }
   },
@@ -70,22 +62,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/flask.websolusi.com.ico",
     "slug": "flask-websolusi",
     "status": "up",
-    "uptime": "96.93%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "93.67%",
-    "uptimeMonth": "96.93%",
-    "uptimeYear": "96.93%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1119,
     "timeDay": 1052,
     "timeWeek": 1231,
     "timeMonth": 1119,
     "timeYear": 1119,
-    "dailyMinutesDown": {
-      "2025-08-12": 2,
-      "2025-08-11": 4,
-      "2025-08-06": 633,
-      "2025-07-29": 80
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Gama Aims Backend",
@@ -93,18 +80,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gamaaims.com.ico",
     "slug": "gama-aims-backend",
     "status": "up",
-    "uptime": "91.64%",
+    "uptime": "91.25%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "81.38%",
-    "uptimeMonth": "91.64%",
-    "uptimeYear": "91.64%",
+    "uptimeWeek": "80.37%",
+    "uptimeMonth": "91.25%",
+    "uptimeYear": "91.25%",
     "time": 870,
     "timeDay": 990,
     "timeWeek": 1080,
     "timeMonth": 870,
     "timeYear": 870,
     "dailyMinutesDown": {
-      "2025-08-12": 743,
+      "2025-08-12": 844,
       "2025-08-11": 1135,
       "2025-07-27": 74
     }
@@ -115,20 +102,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/jayasamudra-agency.com.ico",
     "slug": "jaya-samudra-agency",
     "status": "up",
-    "uptime": "99.31%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.59%",
-    "uptimeMonth": "99.31%",
-    "uptimeYear": "99.31%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 934,
     "timeDay": 1254,
     "timeWeek": 1193,
     "timeMonth": 934,
     "timeYear": 934,
-    "dailyMinutesDown": {
-      "2025-08-10": 28,
-      "2025-08-09": 114
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "KB TK Taman Bahagia",
@@ -136,21 +120,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/kbtktamanbahagia.sch.id.ico",
     "slug": "kb-tk-taman-bahagia",
     "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.64%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1480,
     "timeDay": 1274,
     "timeWeek": 1849,
     "timeMonth": 1480,
     "timeYear": 1480,
-    "dailyMinutesDown": {
-      "2025-08-12": 2,
-      "2025-08-09": 2,
-      "2025-07-29": 80
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Tools Websolusi",
@@ -176,23 +156,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/websolusi.com.ico",
     "slug": "websolusi",
     "status": "up",
-    "uptime": "99.57%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.57%",
-    "uptimeYear": "99.57%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 847,
     "timeDay": 871,
     "timeWeek": 848,
     "timeMonth": 847,
     "timeYear": 847,
-    "dailyMinutesDown": {
-      "2025-08-12": 2,
-      "2025-08-10": 16,
-      "2025-08-09": 2,
-      "2025-08-02": 2,
-      "2025-07-29": 80
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Monit Server (Lessie)",
@@ -200,18 +174,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/live.websolusi.com.ico",
     "slug": "monit-server-lessie",
     "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.64%",
+    "uptime": "99.65%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.65%",
     "time": 1317,
     "timeDay": 974,
     "timeWeek": 973,
     "timeMonth": 1317,
     "timeYear": 1317,
     "dailyMinutesDown": {
-      "2025-08-12": 2,
       "2025-08-09": 2,
       "2025-07-29": 79
     }
