@@ -53,7 +53,7 @@
     "slug": "ad-guard-websolusi",
     "status": "up",
     "uptime": "84.61%",
-    "uptimeDay": "90.87%",
+    "uptimeDay": "90.97%",
     "uptimeWeek": "58.47%",
     "uptimeMonth": "84.61%",
     "uptimeYear": "84.61%",
@@ -76,7 +76,7 @@
     "slug": "flask-websolusi",
     "status": "up",
     "uptime": "96.46%",
-    "uptimeDay": "90.86%",
+    "uptimeDay": "90.96%",
     "uptimeWeek": "97.51%",
     "uptimeMonth": "96.46%",
     "uptimeYear": "96.46%",
@@ -99,7 +99,7 @@
     "slug": "gama-aims-backend",
     "status": "up",
     "uptime": "83.83%",
-    "uptimeDay": "97.31%",
+    "uptimeDay": "97.41%",
     "uptimeWeek": "57.10%",
     "uptimeMonth": "83.83%",
     "uptimeYear": "83.83%",
@@ -166,7 +166,7 @@
     "status": "up",
     "uptime": "93.37%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "82.11%",
+    "uptimeWeek": "82.10%",
     "uptimeMonth": "93.37%",
     "uptimeYear": "93.37%",
     "time": 1145,
@@ -176,7 +176,7 @@
     "timeYear": 1145,
     "dailyMinutesDown": {
       "2025-08-14": 1532,
-      "2025-08-15": 271
+      "2025-08-15": 272
     }
   },
   {
@@ -207,19 +207,19 @@
     "url": "https://live.websolusi.com",
     "icon": "https://icons.duckduckgo.com/ip3/live.websolusi.com.ico",
     "slug": "monit-server-lessie",
-    "status": "down",
+    "status": "up",
     "uptime": "98.79%",
-    "uptimeDay": "90.83%",
-    "uptimeWeek": "97.53%",
+    "uptimeDay": "90.84%",
+    "uptimeWeek": "97.51%",
     "uptimeMonth": "98.79%",
     "uptimeYear": "98.79%",
-    "time": 1261,
-    "timeDay": 776,
-    "timeWeek": 912,
-    "timeMonth": 1261,
-    "timeYear": 1261,
+    "time": 1260,
+    "timeDay": 822,
+    "timeWeek": 916,
+    "timeMonth": 1260,
+    "timeYear": 1260,
     "dailyMinutesDown": {
-      "2025-08-15": 0,
+      "2025-08-15": 1,
       "2025-08-14": 247,
       "2025-08-09": 2,
       "2025-07-29": 79
@@ -232,8 +232,8 @@
     "slug": "vps-arif",
     "status": "up",
     "uptime": "94.84%",
-    "uptimeDay": "2.61%",
-    "uptimeWeek": "86.09%",
+    "uptimeDay": "2.51%",
+    "uptimeWeek": "86.07%",
     "uptimeMonth": "94.84%",
     "uptimeYear": "94.84%",
     "time": 216,
@@ -242,7 +242,7 @@
     "timeMonth": 216,
     "timeYear": 216,
     "dailyMinutesDown": {
-      "2025-08-15": 271,
+      "2025-08-15": 272,
       "2025-08-14": 1131
     }
   },
