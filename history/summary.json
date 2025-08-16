@@ -4,19 +4,19 @@
     "url": "https://agrowisataamanah.id",
     "icon": "https://icons.duckduckgo.com/ip3/agrowisataamanah.id.ico",
     "slug": "agrowisata-amanah",
-    "status": "down",
+    "status": "up",
     "uptime": "97.68%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "93.50%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "93.49%",
     "uptimeMonth": "97.68%",
     "uptimeYear": "97.68%",
-    "time": 6699,
-    "timeDay": 6454,
-    "timeWeek": 5791,
-    "timeMonth": 6699,
-    "timeYear": 6699,
+    "time": 6689,
+    "timeDay": 6372,
+    "timeWeek": 5785,
+    "timeMonth": 6689,
+    "timeYear": 6689,
     "dailyMinutesDown": {
-      "2025-08-16": 2,
+      "2025-08-16": 3,
       "2025-08-14": 115,
       "2025-08-12": 539,
       "2025-07-31": 20
@@ -167,7 +167,7 @@
     "status": "up",
     "uptime": "87.12%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "62.76%",
+    "uptimeWeek": "62.75%",
     "uptimeMonth": "87.12%",
     "uptimeYear": "87.12%",
     "time": 1145,
@@ -177,7 +177,7 @@
     "timeYear": 1145,
     "dailyMinutesDown": {
       "2025-08-14": 1532,
-      "2025-08-16": 781,
+      "2025-08-16": 783,
       "2025-08-15": 1440
     }
   },
@@ -234,7 +234,7 @@
     "status": "up",
     "uptime": "88.50%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "66.74%",
+    "uptimeWeek": "66.73%",
     "uptimeMonth": "88.50%",
     "uptimeYear": "88.50%",
     "time": 216,
@@ -243,7 +243,7 @@
     "timeMonth": 216,
     "timeYear": 216,
     "dailyMinutesDown": {
-      "2025-08-16": 781,
+      "2025-08-16": 783,
       "2025-08-15": 1440,
       "2025-08-14": 1131
     }
