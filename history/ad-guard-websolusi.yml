@@ -1,7 +1,7 @@
 url: https://dns.websolusi.com
-status: down
-code: 503
-responseTime: 820
-lastUpdated: 2025-09-27T23:14:41.900Z
+status: up
+code: 200
+responseTime: 1115
+lastUpdated: 2025-09-27T23:58:11.109Z
 startTime: 2025-07-27T07:08:36.450Z
 generator: Upptime <https://github.com/upptime/upptime>
