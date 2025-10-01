@@ -6,7 +6,7 @@
     "slug": "agrowisata-amanah",
     "status": "up",
     "uptime": "98.34%",
-    "uptimeDay": "93.42%",
+    "uptimeDay": "93.52%",
     "uptimeWeek": "91.28%",
     "uptimeMonth": "97.99%",
     "uptimeYear": "98.34%",
@@ -34,7 +34,7 @@
     "slug": "berkah-multi",
     "status": "up",
     "uptime": "83.69%",
-    "uptimeDay": "93.41%",
+    "uptimeDay": "93.51%",
     "uptimeWeek": "89.82%",
     "uptimeMonth": "83.29%",
     "uptimeYear": "83.69%",
@@ -167,7 +167,7 @@
     "slug": "jaya-samudra-agency",
     "status": "up",
     "uptime": "91.40%",
-    "uptimeDay": "93.41%",
+    "uptimeDay": "93.51%",
     "uptimeWeek": "94.79%",
     "uptimeMonth": "90.25%",
     "uptimeYear": "91.40%",
@@ -318,7 +318,7 @@
     "status": "up",
     "uptime": "81.87%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.58%",
+    "uptimeWeek": "95.59%",
     "uptimeMonth": "98.30%",
     "uptimeYear": "81.87%",
     "time": 218,
@@ -371,10 +371,10 @@
     "url": "103.123.16.118",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vpn-16-118",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 233,
@@ -383,7 +383,7 @@
     "timeMonth": 236,
     "timeYear": 233,
     "dailyMinutesDown": {
-      "2025-10-01": 0
+      "2025-10-01": 1
     }
   }
 ]
