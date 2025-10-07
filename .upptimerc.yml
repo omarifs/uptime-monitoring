@@ -14,6 +14,8 @@ sites:
     method: "GET"
     headers:
     - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Omarifs"
+  - name: AdGuard Domainesia
+    url: https://dns.tsdn.my.id
   - name: AdGuard Websolusi
     url: https://dns.websolusi.com
   - name: Flask Websolusi
@@ -30,8 +32,10 @@ sites:
     method: "GET"
     headers:
     - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Omarifs"
+  - name: Tools Domainesia
+    url: https://tools.tsdn.my.id
   - name: Tools Websolusi
-    url: https://tools.websolusi.com
+    url: https://tools.websolusi.com/telegram  
   - name: Websolusi
     url: https://websolusi.com
     method: "GET"
