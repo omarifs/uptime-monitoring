@@ -24,7 +24,7 @@ sites:
     headers:
     - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Omarifs"
   - name: Whatsapp gateway
-    url: https://wa.websolusi.com
+    url: https://wa.websolusi.com/session?key=28074e6b-6456-4730-8ffd-6915876352d5&session=notif
     method: "GET"
     headers:
     - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Omarifs"
