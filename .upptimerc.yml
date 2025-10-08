@@ -40,7 +40,7 @@ sites:
   - name: Tools Domainesia
     url: https://tools.tsdn.my.id
   - name: Tools Websolusi
-    url: https://tools.websolusi.com/telegram  
+    url: https://tools.websolusi.com/belajar/ 
   - name: Websolusi
     url: https://websolusi.com
     method: "GET"
