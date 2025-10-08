@@ -23,6 +23,11 @@ sites:
     method: "GET"
     headers:
     - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Omarifs"
+  - name: Whatsapp gateway
+    url: https://wa.websolusi.com
+    method: "GET"
+    headers:
+    - "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Omarifs"
   - name: Gama Aims Backend
     url: https://gamaaims.com
   - name: Jaya Samudra Agency
