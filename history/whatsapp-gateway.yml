@@ -1,7 +1,7 @@
 url: https://wa.websolusi.com/session?key=28074e6b-6456-4730-8ffd-6915876352d5&session=notif
-status: up
-code: 200
+status: down
+code: 415
 responseTime: 587
-lastUpdated: 2026-02-16T07:42:22.695Z
+lastUpdated: 2026-02-16T07:43:23.878Z
 startTime: 2025-10-08T03:15:42.646Z
 generator: Upptime <https://github.com/upptime/upptime>
