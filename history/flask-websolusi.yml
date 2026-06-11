@@ -1,7 +1,7 @@
 url: https://flask.websolusi.com
-status: up
-code: 200
-responseTime: 904
-lastUpdated: 2026-06-11T09:05:19.863Z
+status: down
+code: 415
+responseTime: 546
+lastUpdated: 2026-06-11T12:52:48.336Z
 startTime: 2025-07-27T07:08:37.787Z
 generator: Upptime <https://github.com/upptime/upptime>
