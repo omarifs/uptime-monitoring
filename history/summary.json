@@ -63,7 +63,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/berkahmulti.com.ico",
     "slug": "berkah-multi",
     "status": "up",
-    "uptime": "92.09%",
+    "uptime": "92.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -131,16 +131,16 @@
     "url": "https://dns.tsdn.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/dns.tsdn.my.id.ico",
     "slug": "ad-guard-domainesia",
-    "status": "up",
+    "status": "down",
     "uptime": "96.85%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.26%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.29%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "96.85%",
     "time": 2283,
-    "timeDay": 2464,
-    "timeWeek": 2922,
-    "timeMonth": 2802,
+    "timeDay": 2457,
+    "timeWeek": 2915,
+    "timeMonth": 2797,
     "timeYear": 2283,
     "dailyMinutesDown": {
       "2025-10-07": 18,
@@ -166,7 +166,7 @@
       "2026-08-07": 55,
       "2026-08-17": 25,
       "2026-08-20": 70,
-      "2026-08-26": 4
+      "2026-08-26": 1
     }
   },
   {
@@ -270,7 +270,7 @@
       "2026-02-21": 1440,
       "2026-02-20": 536,
       "2026-04-21": 62,
-      "2026-08-26": 1112,
+      "2026-08-26": 1120,
       "2026-08-25": 1440,
       "2026-08-24": 1440,
       "2026-08-23": 1440,
@@ -333,12 +333,12 @@
     "slug": "flask-websolusi",
     "status": "down",
     "uptime": "84.81%",
-    "uptimeDay": "5.66%",
+    "uptimeDay": "5.38%",
     "uptimeWeek": "1.19%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "83.54%",
     "time": 958,
-    "timeDay": 546,
+    "timeDay": 549,
     "timeWeek": 548,
     "timeMonth": 536,
     "timeYear": 952,
@@ -441,7 +441,7 @@
       "2026-07-10": 1440,
       "2026-07-09": 1440,
       "2026-07-08": 1440,
-      "2026-08-26": 1071
+      "2026-08-26": 1079
     }
   },
   {
@@ -812,7 +812,7 @@
     "uptime": "87.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "60.85%",
+    "uptimeMonth": "60.86%",
     "uptimeYear": "86.14%",
     "time": 748,
     "timeDay": 613,
