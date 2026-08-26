@@ -131,17 +131,17 @@
     "url": "https://dns.tsdn.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/dns.tsdn.my.id.ico",
     "slug": "ad-guard-domainesia",
-    "status": "down",
+    "status": "up",
     "uptime": "96.85%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.29%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.26%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "96.85%",
-    "time": 2278,
-    "timeDay": 3046,
-    "timeWeek": 3007,
-    "timeMonth": 2846,
-    "timeYear": 2278,
+    "time": 2277,
+    "timeDay": 2988,
+    "timeWeek": 2994,
+    "timeMonth": 2838,
+    "timeYear": 2277,
     "dailyMinutesDown": {
       "2025-10-07": 18,
       "2025-11-13": 38,
@@ -166,7 +166,7 @@
       "2026-08-07": 55,
       "2026-08-17": 25,
       "2026-08-20": 70,
-      "2026-08-26": 1
+      "2026-08-26": 4
     }
   },
   {
@@ -270,7 +270,7 @@
       "2026-02-21": 1440,
       "2026-02-20": 536,
       "2026-04-21": 62,
-      "2026-08-26": 1028,
+      "2026-08-26": 1032,
       "2026-08-25": 1440,
       "2026-08-24": 1440,
       "2026-08-23": 1440,
@@ -441,7 +441,7 @@
       "2026-07-10": 1440,
       "2026-07-09": 1440,
       "2026-07-08": 1440,
-      "2026-08-26": 987
+      "2026-08-26": 991
     }
   },
   {
@@ -607,7 +607,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/jayasamudra-agency.com.ico",
     "slug": "jaya-samudra-agency",
     "status": "up",
-    "uptime": "94.58%",
+    "uptime": "94.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -812,7 +812,7 @@
     "uptime": "87.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "60.65%",
+    "uptimeMonth": "60.66%",
     "uptimeYear": "86.14%",
     "time": 748,
     "timeDay": 613,
@@ -929,7 +929,7 @@
     "status": "up",
     "uptime": "98.37%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.64%",
+    "uptimeWeek": "99.66%",
     "uptimeMonth": "87.48%",
     "uptimeYear": "98.23%",
     "time": 822,
