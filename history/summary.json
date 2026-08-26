@@ -174,7 +174,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dns.websolusi.com.ico",
     "slug": "ad-guard-websolusi",
     "status": "down",
-    "uptime": "65.96%",
+    "uptime": "65.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -269,7 +269,7 @@
       "2026-02-21": 1440,
       "2026-02-20": 536,
       "2026-04-21": 62,
-      "2026-08-26": 1368,
+      "2026-08-26": 1380,
       "2026-08-25": 1440,
       "2026-08-24": 1440,
       "2026-08-23": 1440,
@@ -332,7 +332,7 @@
     "slug": "flask-websolusi",
     "status": "down",
     "uptime": "84.84%",
-    "uptimeDay": "6.98%",
+    "uptimeDay": "6.77%",
     "uptimeWeek": "1.59%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "83.57%",
@@ -437,7 +437,7 @@
       "2026-07-10": 1440,
       "2026-07-09": 1440,
       "2026-07-08": 1440,
-      "2026-08-26": 1286
+      "2026-08-26": 1299
     }
   },
   {
@@ -725,15 +725,15 @@
     "slug": "tools-domainesia",
     "status": "down",
     "uptime": "98.57%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.78%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "98.57%",
-    "time": 1943,
-    "timeDay": 2351,
+    "time": 1944,
+    "timeDay": 2346,
     "timeWeek": 2229,
-    "timeMonth": 2538,
-    "timeYear": 1943,
+    "timeMonth": 2533,
+    "timeYear": 1944,
     "dailyMinutesDown": {
       "2025-10-07": 19,
       "2025-11-18": 122,
@@ -750,7 +750,7 @@
       "2026-08-07": 54,
       "2026-08-18": 16,
       "2026-08-19": 27,
-      "2026-08-26": 2
+      "2026-08-26": 6
     }
   },
   {
@@ -809,7 +809,7 @@
     "uptime": "87.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "61.43%",
+    "uptimeMonth": "61.46%",
     "uptimeYear": "86.14%",
     "time": 748,
     "timeDay": 613,
@@ -930,7 +930,7 @@
     "uptimeMonth": "87.48%",
     "uptimeYear": "98.23%",
     "time": 821,
-    "timeDay": 607,
+    "timeDay": 603,
     "timeWeek": 629,
     "timeMonth": 635,
     "timeYear": 812,
