@@ -133,9 +133,9 @@
     "slug": "ad-guard-domainesia",
     "status": "down",
     "uptime": "96.85%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "99.65%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "99.64%",
     "uptimeYear": "96.85%",
     "time": 2282,
     "timeDay": 2428,
@@ -166,7 +166,7 @@
       "2026-08-07": 55,
       "2026-08-17": 25,
       "2026-08-20": 70,
-      "2026-08-26": 1
+      "2026-08-26": 5
     }
   },
   {
@@ -270,7 +270,7 @@
       "2026-02-21": 1440,
       "2026-02-20": 536,
       "2026-04-21": 62,
-      "2026-08-26": 1140,
+      "2026-08-26": 1144,
       "2026-08-25": 1440,
       "2026-08-24": 1440,
       "2026-08-23": 1440,
@@ -441,7 +441,7 @@
       "2026-07-10": 1440,
       "2026-07-09": 1440,
       "2026-07-08": 1440,
-      "2026-08-26": 1099
+      "2026-08-26": 1103
     }
   },
   {
@@ -727,17 +727,17 @@
     "url": "https://tools.tsdn.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/tools.tsdn.my.id.ico",
     "slug": "tools-domainesia",
-    "status": "down",
+    "status": "up",
     "uptime": "98.57%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.78%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "98.57%",
-    "time": 1913,
-    "timeDay": 2156,
-    "timeWeek": 2139,
-    "timeMonth": 2554,
-    "timeYear": 1913,
+    "time": 1929,
+    "timeDay": 2546,
+    "timeWeek": 2253,
+    "timeMonth": 2626,
+    "timeYear": 1929,
     "dailyMinutesDown": {
       "2025-10-07": 19,
       "2025-11-18": 122,
@@ -754,7 +754,7 @@
       "2026-08-07": 54,
       "2026-08-18": 16,
       "2026-08-19": 27,
-      "2026-08-26": 2
+      "2026-08-26": 4
     }
   },
   {
@@ -813,7 +813,7 @@
     "uptime": "87.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "60.91%",
+    "uptimeMonth": "60.92%",
     "uptimeYear": "86.14%",
     "time": 748,
     "timeDay": 613,
