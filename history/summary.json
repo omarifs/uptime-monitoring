@@ -269,7 +269,7 @@
       "2026-02-21": 1440,
       "2026-02-20": 536,
       "2026-04-21": 62,
-      "2026-08-26": 1182,
+      "2026-08-26": 1186,
       "2026-08-25": 1440,
       "2026-08-24": 1440,
       "2026-08-23": 1440,
@@ -330,15 +330,15 @@
     "url": "https://flask.websolusi.com",
     "icon": "https://icons.duckduckgo.com/ip3/flask.websolusi.com.ico",
     "slug": "flask-websolusi",
-    "status": "down",
+    "status": "up",
     "uptime": "84.82%",
-    "uptimeDay": "5.41%",
-    "uptimeWeek": "1.23%",
+    "uptimeDay": "5.45%",
+    "uptimeWeek": "1.24%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "83.55%",
     "time": 958,
-    "timeDay": 540,
-    "timeWeek": 544,
+    "timeDay": 539,
+    "timeWeek": 543,
     "timeMonth": 534,
     "timeYear": 952,
     "dailyMinutesDown": {
@@ -439,7 +439,7 @@
       "2026-07-10": 1440,
       "2026-07-09": 1440,
       "2026-07-08": 1440,
-      "2026-08-26": 1137
+      "2026-08-26": 1140
     }
   },
   {
@@ -727,9 +727,9 @@
     "slug": "tools-domainesia",
     "status": "up",
     "uptime": "98.57%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.77%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.78%",
     "uptimeYear": "98.57%",
     "time": 1933,
     "timeDay": 2465,
@@ -751,8 +751,7 @@
       "2026-04-30": 90,
       "2026-08-07": 54,
       "2026-08-18": 16,
-      "2026-08-19": 27,
-      "2026-08-26": 5
+      "2026-08-19": 27
     }
   },
   {
@@ -811,7 +810,7 @@
     "uptime": "87.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "61.01%",
+    "uptimeMonth": "61.02%",
     "uptimeYear": "86.14%",
     "time": 748,
     "timeDay": 613,
