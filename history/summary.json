@@ -138,7 +138,7 @@
     "uptimeMonth": "99.66%",
     "uptimeYear": "96.85%",
     "time": 2271,
-    "timeDay": 3434,
+    "timeDay": 2477,
     "timeWeek": 3037,
     "timeMonth": 2854,
     "timeYear": 2271,
@@ -174,7 +174,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dns.websolusi.com.ico",
     "slug": "ad-guard-websolusi",
     "status": "down",
-    "uptime": "66.02%",
+    "uptime": "66.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -269,7 +269,7 @@
       "2026-02-21": 1440,
       "2026-02-20": 536,
       "2026-04-21": 62,
-      "2026-08-26": 838,
+      "2026-08-26": 856,
       "2026-08-25": 1440,
       "2026-08-24": 1440,
       "2026-08-23": 1440,
@@ -332,10 +332,10 @@
     "slug": "flask-websolusi",
     "status": "down",
     "uptime": "84.84%",
-    "uptimeDay": "8.06%",
+    "uptimeDay": "7.91%",
     "uptimeWeek": "1.15%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "83.59%",
+    "uptimeYear": "83.58%",
     "time": 958,
     "timeDay": 539,
     "timeWeek": 544,
@@ -441,7 +441,7 @@
       "2026-07-10": 1440,
       "2026-07-09": 1440,
       "2026-07-08": 1440,
-      "2026-08-26": 801
+      "2026-08-26": 818
     }
   },
   {
@@ -812,7 +812,7 @@
     "uptime": "87.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "60.22%",
+    "uptimeMonth": "60.26%",
     "uptimeYear": "86.14%",
     "time": 748,
     "timeDay": 613,
@@ -926,11 +926,11 @@
     "url": "https://live.websolusi.com",
     "icon": "https://icons.duckduckgo.com/ip3/live.websolusi.com.ico",
     "slug": "monit-server-lessie",
-    "status": "up",
-    "uptime": "98.37%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.38%",
-    "uptimeMonth": "87.47%",
+    "status": "down",
+    "uptime": "98.38%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "87.48%",
     "uptimeYear": "98.24%",
     "time": 822,
     "timeDay": 608,
@@ -978,7 +978,7 @@
       "2026-08-18": 18,
       "2026-08-19": 24,
       "2026-08-20": 35,
-      "2026-08-26": 4
+      "2026-08-26": 2
     }
   },
   {
