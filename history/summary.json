@@ -131,17 +131,17 @@
     "url": "https://dns.tsdn.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/dns.tsdn.my.id.ico",
     "slug": "ad-guard-domainesia",
-    "status": "down",
+    "status": "up",
     "uptime": "96.86%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.29%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.27%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "96.86%",
-    "time": 2301,
-    "timeDay": 2486,
-    "timeWeek": 2844,
-    "timeMonth": 2762,
-    "timeYear": 2301,
+    "time": 2300,
+    "timeDay": 2473,
+    "timeWeek": 2834,
+    "timeMonth": 2754,
+    "timeYear": 2300,
     "dailyMinutesDown": {
       "2025-10-07": 18,
       "2025-11-13": 38,
@@ -166,7 +166,7 @@
       "2026-08-07": 55,
       "2026-08-17": 25,
       "2026-08-20": 70,
-      "2026-08-27": 1
+      "2026-08-27": 4
     }
   },
   {
@@ -270,7 +270,7 @@
       "2026-02-21": 1440,
       "2026-02-20": 536,
       "2026-04-21": 62,
-      "2026-08-27": 194,
+      "2026-08-27": 198,
       "2026-08-26": 1440,
       "2026-08-25": 1440,
       "2026-08-24": 1440,
@@ -435,7 +435,7 @@
       "2026-07-09": 1440,
       "2026-07-08": 1440,
       "2026-08-26": 1354,
-      "2026-08-27": 124
+      "2026-08-27": 128
     }
   },
   {
@@ -520,7 +520,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gamaaims.com.ico",
     "slug": "gama-aims-backend",
     "status": "up",
-    "uptime": "85.38%",
+    "uptime": "85.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -806,7 +806,7 @@
     "uptime": "87.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "62.04%",
+    "uptimeMonth": "62.05%",
     "uptimeYear": "86.14%",
     "time": 748,
     "timeDay": 0,
