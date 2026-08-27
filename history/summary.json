@@ -178,7 +178,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "64.10%",
+    "uptimeYear": "64.09%",
     "time": 1202,
     "timeDay": 0,
     "timeWeek": 546,
@@ -269,7 +269,7 @@
       "2026-02-21": 1440,
       "2026-02-20": 536,
       "2026-04-21": 62,
-      "2026-08-27": 366,
+      "2026-08-27": 396,
       "2026-08-26": 1440,
       "2026-08-25": 1440,
       "2026-08-24": 1440,
@@ -331,17 +331,17 @@
     "url": "https://flask.websolusi.com",
     "icon": "https://icons.duckduckgo.com/ip3/flask.websolusi.com.ico",
     "slug": "flask-websolusi",
-    "status": "down",
+    "status": "up",
     "uptime": "84.88%",
-    "uptimeDay": "9.88%",
+    "uptimeDay": "9.93%",
     "uptimeWeek": "2.48%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "83.60%",
     "time": 955,
-    "timeDay": 547,
-    "timeWeek": 546,
+    "timeDay": 545,
+    "timeWeek": 545,
     "timeMonth": 540,
-    "timeYear": 947,
+    "timeYear": 946,
     "dailyMinutesDown": {
       "2026-05-14": 102,
       "2026-05-22": 146,
@@ -431,7 +431,7 @@
       "2026-07-09": 1440,
       "2026-07-08": 1440,
       "2026-08-26": 1354,
-      "2026-08-27": 280
+      "2026-08-27": 309
     }
   },
   {
@@ -802,7 +802,7 @@
     "uptime": "87.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "62.43%",
+    "uptimeMonth": "62.50%",
     "uptimeYear": "86.14%",
     "time": 748,
     "timeDay": 0,
@@ -916,15 +916,15 @@
     "url": "https://live.websolusi.com",
     "icon": "https://icons.duckduckgo.com/ip3/live.websolusi.com.ico",
     "slug": "monit-server-lessie",
-    "status": "up",
+    "status": "down",
     "uptime": "98.38%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.62%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.64%",
     "uptimeMonth": "87.53%",
     "uptimeYear": "98.24%",
     "time": 817,
-    "timeDay": 606,
-    "timeWeek": 628,
+    "timeDay": 604,
+    "timeWeek": 627,
     "timeMonth": 633,
     "timeYear": 811,
     "dailyMinutesDown": {
@@ -968,7 +968,7 @@
       "2026-08-18": 18,
       "2026-08-19": 24,
       "2026-08-20": 35,
-      "2026-08-27": 4
+      "2026-08-27": 2
     }
   },
   {
