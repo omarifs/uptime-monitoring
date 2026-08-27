@@ -269,7 +269,7 @@
       "2026-02-21": 1440,
       "2026-02-20": 536,
       "2026-04-21": 62,
-      "2026-08-27": 170,
+      "2026-08-27": 178,
       "2026-08-26": 1440,
       "2026-08-25": 1440,
       "2026-08-24": 1440,
@@ -331,9 +331,9 @@
     "url": "https://flask.websolusi.com",
     "icon": "https://icons.duckduckgo.com/ip3/flask.websolusi.com.ico",
     "slug": "flask-websolusi",
-    "status": "down",
+    "status": "up",
     "uptime": "84.87%",
-    "uptimeDay": "7.35%",
+    "uptimeDay": "7.41%",
     "uptimeWeek": "2.12%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "83.59%",
@@ -434,7 +434,7 @@
       "2026-07-09": 1440,
       "2026-07-08": 1440,
       "2026-08-26": 1354,
-      "2026-08-27": 120
+      "2026-08-27": 127
     }
   },
   {
@@ -805,7 +805,7 @@
     "uptime": "87.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "61.98%",
+    "uptimeMonth": "62.00%",
     "uptimeYear": "86.14%",
     "time": 748,
     "timeDay": 0,
@@ -919,14 +919,14 @@
     "url": "https://live.websolusi.com",
     "icon": "https://icons.duckduckgo.com/ip3/live.websolusi.com.ico",
     "slug": "monit-server-lessie",
-    "status": "up",
+    "status": "down",
     "uptime": "98.38%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.62%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.63%",
     "uptimeMonth": "87.53%",
     "uptimeYear": "98.24%",
     "time": 818,
-    "timeDay": 599,
+    "timeDay": 596,
     "timeWeek": 628,
     "timeMonth": 634,
     "timeYear": 812,
@@ -971,7 +971,7 @@
       "2026-08-18": 18,
       "2026-08-19": 24,
       "2026-08-20": 35,
-      "2026-08-27": 4
+      "2026-08-27": 2
     }
   },
   {
