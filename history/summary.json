@@ -174,7 +174,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dns.websolusi.com.ico",
     "slug": "ad-guard-websolusi",
     "status": "down",
-    "uptime": "65.66%",
+    "uptime": "65.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -269,7 +269,7 @@
       "2026-02-21": 1440,
       "2026-02-20": 536,
       "2026-04-21": 62,
-      "2026-08-28": 1089,
+      "2026-08-28": 1094,
       "2026-08-27": 1440,
       "2026-08-26": 1440,
       "2026-08-25": 1440,
@@ -332,10 +332,10 @@
     "url": "https://flask.websolusi.com",
     "icon": "https://icons.duckduckgo.com/ip3/flask.websolusi.com.ico",
     "slug": "flask-websolusi",
-    "status": "up",
+    "status": "down",
     "uptime": "86.10%",
-    "uptimeDay": "20.61%",
-    "uptimeWeek": "6.00%",
+    "uptimeDay": "21.18%",
+    "uptimeWeek": "6.09%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "84.86%",
     "time": 949,
@@ -408,7 +408,7 @@
       "2026-07-08": 1440,
       "2026-08-26": 1354,
       "2026-08-27": 1231,
-      "2026-08-28": 860
+      "2026-08-28": 857
     }
   },
   {
@@ -779,7 +779,7 @@
     "uptime": "87.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "67.37%",
+    "uptimeMonth": "67.38%",
     "uptimeYear": "86.14%",
     "time": 748,
     "timeDay": 567,
@@ -893,14 +893,14 @@
     "url": "https://live.websolusi.com",
     "icon": "https://icons.duckduckgo.com/ip3/live.websolusi.com.ico",
     "slug": "monit-server-lessie",
-    "status": "down",
+    "status": "up",
     "uptime": "98.39%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "88.02%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "88.01%",
     "uptimeYear": "98.25%",
     "time": 811,
-    "timeDay": 637,
+    "timeDay": 638,
     "timeWeek": 629,
     "timeMonth": 640,
     "timeYear": 809,
@@ -945,7 +945,7 @@
       "2026-08-19": 24,
       "2026-08-20": 35,
       "2026-08-27": 4,
-      "2026-08-28": 2
+      "2026-08-28": 4
     }
   },
   {
