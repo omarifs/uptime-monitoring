@@ -132,9 +132,9 @@
     "slug": "ad-guard-domainesia",
     "status": "up",
     "uptime": "96.91%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.65%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.66%",
     "uptimeYear": "96.91%",
     "time": 2363,
     "timeDay": 2659,
@@ -164,8 +164,7 @@
       "2026-04-30": 94,
       "2026-08-07": 55,
       "2026-08-17": 25,
-      "2026-08-20": 70,
-      "2026-09-01": 4
+      "2026-08-20": 70
     }
   },
   {
@@ -269,7 +268,7 @@
       "2026-02-21": 1440,
       "2026-02-20": 536,
       "2026-04-21": 62,
-      "2026-09-01": 1274,
+      "2026-09-01": 1290,
       "2026-08-31": 1440,
       "2026-08-30": 1440,
       "2026-08-29": 1440,
@@ -336,15 +335,15 @@
     "url": "https://flask.websolusi.com",
     "icon": "https://icons.duckduckgo.com/ip3/flask.websolusi.com.ico",
     "slug": "flask-websolusi",
-    "status": "down",
+    "status": "up",
     "uptime": "99.18%",
-    "uptimeDay": "23.25%",
-    "uptimeWeek": "52.85%",
-    "uptimeMonth": "89.15%",
-    "uptimeYear": "99.10%",
+    "uptimeDay": "23.30%",
+    "uptimeWeek": "52.70%",
+    "uptimeMonth": "89.12%",
+    "uptimeYear": "99.09%",
     "time": 932,
-    "timeDay": 609,
-    "timeWeek": 586,
+    "timeDay": 610,
+    "timeWeek": 587,
     "timeMonth": 582,
     "timeYear": 913,
     "dailyMinutesDown": {
@@ -352,7 +351,7 @@
       "2026-08-29": 1076,
       "2026-08-30": 1281,
       "2026-08-31": 1168,
-      "2026-09-01": 977
+      "2026-09-01": 992
     }
   },
   {
@@ -723,7 +722,7 @@
     "uptime": "87.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "80.94%",
+    "uptimeMonth": "80.98%",
     "uptimeYear": "86.14%",
     "time": 748,
     "timeDay": 0,
@@ -837,19 +836,18 @@
     "url": "https://live.websolusi.com",
     "icon": "https://icons.duckduckgo.com/ip3/live.websolusi.com.ico",
     "slug": "monit-server-lessie",
-    "status": "up",
-    "uptime": "98.40%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "89.22%",
-    "uptimeYear": "98.24%",
-    "time": 803,
-    "timeDay": 650,
+    "status": "down",
+    "uptime": "98.41%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "89.21%",
+    "uptimeYear": "98.25%",
+    "time": 811,
+    "timeDay": 649,
     "timeWeek": 660,
     "timeMonth": 650,
     "timeYear": 801,
     "dailyMinutesDown": {
-      "2026-07-11": 58,
       "2026-07-12": 173,
       "2026-07-13": 184,
       "2026-07-14": 143,
@@ -889,7 +887,8 @@
       "2026-08-18": 18,
       "2026-08-19": 24,
       "2026-08-20": 35,
-      "2026-08-27": 4
+      "2026-08-27": 4,
+      "2026-09-01": 2
     }
   },
   {
