@@ -130,17 +130,17 @@
     "url": "https://dns.tsdn.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/dns.tsdn.my.id.ico",
     "slug": "ad-guard-domainesia",
-    "status": "down",
+    "status": "up",
     "uptime": "96.91%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "96.91%",
-    "time": 2368,
-    "timeDay": 2912,
-    "timeWeek": 2771,
-    "timeMonth": 2870,
-    "timeYear": 2368,
+    "time": 2367,
+    "timeDay": 2861,
+    "timeWeek": 2762,
+    "timeMonth": 2864,
+    "timeYear": 2367,
     "dailyMinutesDown": {
       "2025-10-07": 18,
       "2025-11-13": 38,
@@ -165,7 +165,7 @@
       "2026-08-07": 55,
       "2026-08-17": 25,
       "2026-08-20": 70,
-      "2026-09-01": 1
+      "2026-09-01": 4
     }
   },
   {
@@ -269,7 +269,7 @@
       "2026-02-21": 1440,
       "2026-02-20": 536,
       "2026-04-21": 62,
-      "2026-09-01": 1194,
+      "2026-09-01": 1199,
       "2026-08-31": 1440,
       "2026-08-30": 1440,
       "2026-08-29": 1440,
@@ -339,8 +339,8 @@
     "status": "down",
     "uptime": "99.18%",
     "uptimeDay": "22.98%",
-    "uptimeWeek": "52.97%",
-    "uptimeMonth": "89.18%",
+    "uptimeWeek": "52.92%",
+    "uptimeMonth": "89.17%",
     "uptimeYear": "99.10%",
     "time": 932,
     "timeDay": 605,
@@ -352,7 +352,7 @@
       "2026-08-29": 1076,
       "2026-08-30": 1281,
       "2026-08-31": 1168,
-      "2026-09-01": 905
+      "2026-09-01": 910
     }
   },
   {
@@ -723,7 +723,7 @@
     "uptime": "87.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "80.76%",
+    "uptimeMonth": "80.77%",
     "uptimeYear": "86.14%",
     "time": 748,
     "timeDay": 0,
