@@ -130,17 +130,17 @@
     "url": "https://dns.tsdn.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/dns.tsdn.my.id.ico",
     "slug": "ad-guard-domainesia",
-    "status": "up",
+    "status": "down",
     "uptime": "96.91%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.96%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "96.91%",
-    "time": 2390,
-    "timeDay": 3105,
-    "timeWeek": 2831,
-    "timeMonth": 2894,
-    "timeYear": 2390,
+    "time": 2396,
+    "timeDay": 3179,
+    "timeWeek": 2854,
+    "timeMonth": 2908,
+    "timeYear": 2396,
     "dailyMinutesDown": {
       "2025-10-07": 18,
       "2025-11-13": 38,
@@ -165,7 +165,7 @@
       "2026-08-07": 55,
       "2026-08-17": 25,
       "2026-08-20": 70,
-      "2026-09-01": 4
+      "2026-09-01": 1
     }
   },
   {
@@ -178,7 +178,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "62.53%",
+    "uptimeYear": "62.52%",
     "time": 1197,
     "timeDay": 0,
     "timeWeek": 528,
@@ -269,7 +269,7 @@
       "2026-02-21": 1440,
       "2026-02-20": 536,
       "2026-04-21": 62,
-      "2026-09-01": 1419,
+      "2026-09-01": 1423,
       "2026-08-31": 1440,
       "2026-08-30": 1440,
       "2026-08-29": 1440,
@@ -339,12 +339,12 @@
     "status": "down",
     "uptime": "99.17%",
     "uptimeDay": "23.31%",
-    "uptimeWeek": "52.33%",
-    "uptimeMonth": "89.03%",
-    "uptimeYear": "99.09%",
+    "uptimeWeek": "52.29%",
+    "uptimeMonth": "89.02%",
+    "uptimeYear": "99.08%",
     "time": 931,
     "timeDay": 627,
-    "timeWeek": 588,
+    "timeWeek": 589,
     "timeMonth": 584,
     "timeYear": 913,
     "dailyMinutesDown": {
@@ -352,7 +352,7 @@
       "2026-08-29": 1076,
       "2026-08-30": 1281,
       "2026-08-31": 1168,
-      "2026-09-01": 1090
+      "2026-09-01": 1094
     }
   },
   {
@@ -723,7 +723,7 @@
     "uptime": "87.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "81.27%",
+    "uptimeMonth": "81.28%",
     "uptimeYear": "86.14%",
     "time": 748,
     "timeDay": 0,
