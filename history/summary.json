@@ -132,9 +132,9 @@
     "slug": "ad-guard-domainesia",
     "status": "up",
     "uptime": "96.91%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.65%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.66%",
     "uptimeYear": "96.91%",
     "time": 2367,
     "timeDay": 2905,
@@ -164,8 +164,7 @@
       "2026-04-30": 94,
       "2026-08-07": 55,
       "2026-08-17": 25,
-      "2026-08-20": 70,
-      "2026-09-01": 4
+      "2026-08-20": 70
     }
   },
   {
@@ -269,7 +268,7 @@
       "2026-02-21": 1440,
       "2026-02-20": 536,
       "2026-04-21": 62,
-      "2026-09-01": 1176,
+      "2026-09-01": 1179,
       "2026-08-31": 1440,
       "2026-08-30": 1440,
       "2026-08-29": 1440,
@@ -339,8 +338,8 @@
     "status": "down",
     "uptime": "99.18%",
     "uptimeDay": "22.98%",
-    "uptimeWeek": "53.15%",
-    "uptimeMonth": "89.22%",
+    "uptimeWeek": "53.11%",
+    "uptimeMonth": "89.21%",
     "uptimeYear": "99.10%",
     "time": 932,
     "timeDay": 605,
@@ -352,7 +351,7 @@
       "2026-08-29": 1076,
       "2026-08-30": 1281,
       "2026-08-31": 1168,
-      "2026-09-01": 887
+      "2026-09-01": 891
     }
   },
   {
@@ -638,17 +637,17 @@
     "url": "https://tools.tsdn.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/tools.tsdn.my.id.ico",
     "slug": "tools-domainesia",
-    "status": "down",
+    "status": "up",
     "uptime": "98.60%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.78%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "98.60%",
-    "time": 2095,
-    "timeDay": 3256,
-    "timeWeek": 2894,
-    "timeMonth": 2856,
-    "timeYear": 2095,
+    "time": 2103,
+    "timeDay": 3395,
+    "timeWeek": 2928,
+    "timeMonth": 2877,
+    "timeYear": 2103,
     "dailyMinutesDown": {
       "2025-10-07": 19,
       "2025-11-18": 122,
@@ -665,7 +664,7 @@
       "2026-08-07": 54,
       "2026-08-18": 16,
       "2026-08-19": 27,
-      "2026-09-01": 2
+      "2026-09-01": 4
     }
   },
   {
