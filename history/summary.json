@@ -63,7 +63,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/berkahmulti.com.ico",
     "slug": "berkah-multi",
     "status": "up",
-    "uptime": "92.21%",
+    "uptime": "92.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -268,7 +268,7 @@
       "2026-02-21": 1440,
       "2026-02-20": 536,
       "2026-04-21": 62,
-      "2026-09-01": 1255,
+      "2026-09-01": 1260,
       "2026-08-31": 1440,
       "2026-08-30": 1440,
       "2026-08-29": 1440,
@@ -338,8 +338,8 @@
     "status": "down",
     "uptime": "99.18%",
     "uptimeDay": "23.25%",
-    "uptimeWeek": "53.05%",
-    "uptimeMonth": "89.20%",
+    "uptimeWeek": "52.99%",
+    "uptimeMonth": "89.18%",
     "uptimeYear": "99.10%",
     "time": 932,
     "timeDay": 609,
@@ -351,7 +351,7 @@
       "2026-08-29": 1076,
       "2026-08-30": 1281,
       "2026-08-31": 1168,
-      "2026-09-01": 958
+      "2026-09-01": 964
     }
   },
   {
@@ -637,16 +637,16 @@
     "url": "https://tools.tsdn.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/tools.tsdn.my.id.ico",
     "slug": "tools-domainesia",
-    "status": "up",
+    "status": "down",
     "uptime": "98.60%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.77%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.78%",
     "uptimeYear": "98.60%",
     "time": 2106,
-    "timeDay": 3251,
-    "timeWeek": 2910,
-    "timeMonth": 2867,
+    "timeDay": 3224,
+    "timeWeek": 2907,
+    "timeMonth": 2865,
     "timeYear": 2106,
     "dailyMinutesDown": {
       "2025-10-07": 19,
@@ -664,7 +664,7 @@
       "2026-08-07": 54,
       "2026-08-18": 16,
       "2026-08-19": 27,
-      "2026-09-01": 5
+      "2026-09-01": 2
     }
   },
   {
@@ -723,7 +723,7 @@
     "uptime": "87.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "80.90%",
+    "uptimeMonth": "80.91%",
     "uptimeYear": "86.14%",
     "time": 748,
     "timeDay": 0,
