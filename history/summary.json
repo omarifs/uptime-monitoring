@@ -131,13 +131,13 @@
     "slug": "ad-guard-domainesia",
     "status": "up",
     "uptime": "96.92%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.64%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.66%",
     "uptimeYear": "96.92%",
     "time": 2456,
     "timeDay": 3834,
-    "timeWeek": 3240,
+    "timeWeek": 3247,
     "timeMonth": 3019,
     "timeYear": 2456,
     "dailyMinutesDown": {
@@ -163,8 +163,7 @@
       "2026-04-30": 94,
       "2026-08-07": 55,
       "2026-08-17": 25,
-      "2026-08-20": 70,
-      "2026-09-02": 5
+      "2026-08-20": 70
     }
   },
   {
@@ -268,7 +267,7 @@
       "2026-02-21": 1440,
       "2026-02-20": 536,
       "2026-04-21": 62,
-      "2026-09-02": 1220,
+      "2026-09-02": 1224,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
       "2026-08-30": 1440,
@@ -337,10 +336,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/flask.websolusi.com.ico",
     "slug": "flask-websolusi",
     "status": "down",
-    "uptime": "99.17%",
+    "uptime": "99.16%",
     "uptimeDay": "21.06%",
-    "uptimeWeek": "51.99%",
-    "uptimeMonth": "88.95%",
+    "uptimeWeek": "51.94%",
+    "uptimeMonth": "88.94%",
     "uptimeYear": "99.08%",
     "time": 925,
     "timeDay": 692,
@@ -352,7 +351,7 @@
       "2026-08-30": 1281,
       "2026-08-31": 1168,
       "2026-09-01": 1111,
-      "2026-09-02": 953
+      "2026-09-02": 957
     }
   },
   {
@@ -638,16 +637,16 @@
     "url": "https://tools.tsdn.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/tools.tsdn.my.id.ico",
     "slug": "tools-domainesia",
-    "status": "up",
+    "status": "down",
     "uptime": "98.60%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "98.60%",
     "time": 2148,
-    "timeDay": 2691,
-    "timeWeek": 2947,
-    "timeMonth": 2846,
+    "timeDay": 2678,
+    "timeWeek": 2934,
+    "timeMonth": 2842,
     "timeYear": 2148,
     "dailyMinutesDown": {
       "2025-10-07": 19,
@@ -664,7 +663,8 @@
       "2026-04-30": 90,
       "2026-08-07": 54,
       "2026-08-18": 16,
-      "2026-08-19": 27
+      "2026-08-19": 27,
+      "2026-09-02": 2
     }
   },
   {
@@ -723,7 +723,7 @@
     "uptime": "87.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "84.10%",
+    "uptimeMonth": "84.12%",
     "uptimeYear": "86.14%",
     "time": 748,
     "timeDay": 552,
