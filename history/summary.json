@@ -67,7 +67,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.57%",
+    "uptimeYear": "93.58%",
     "time": 3547,
     "timeDay": 3738,
     "timeWeek": 3221,
@@ -128,16 +128,16 @@
     "url": "https://dns.tsdn.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/dns.tsdn.my.id.ico",
     "slug": "ad-guard-domainesia",
-    "status": "up",
+    "status": "down",
     "uptime": "96.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.66%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.65%",
     "uptimeYear": "96.93%",
     "time": 2494,
-    "timeDay": 3144,
-    "timeWeek": 3248,
-    "timeMonth": 3023,
+    "timeDay": 3129,
+    "timeWeek": 3243,
+    "timeMonth": 3021,
     "timeYear": 2494,
     "dailyMinutesDown": {
       "2025-10-07": 18,
@@ -162,7 +162,8 @@
       "2026-04-30": 94,
       "2026-08-07": 55,
       "2026-08-17": 25,
-      "2026-08-20": 70
+      "2026-08-20": 70,
+      "2026-09-03": 1
     }
   },
   {
@@ -171,7 +172,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dns.websolusi.com.ico",
     "slug": "ad-guard-websolusi",
     "status": "down",
-    "uptime": "64.66%",
+    "uptime": "64.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -266,7 +267,7 @@
       "2026-02-21": 1440,
       "2026-02-20": 536,
       "2026-04-21": 62,
-      "2026-09-03": 1298,
+      "2026-09-03": 1310,
       "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
@@ -338,8 +339,8 @@
     "status": "down",
     "uptime": "99.23%",
     "uptimeDay": "17.57%",
-    "uptimeWeek": "55.83%",
-    "uptimeMonth": "89.84%",
+    "uptimeWeek": "55.72%",
+    "uptimeMonth": "89.81%",
     "uptimeYear": "99.15%",
     "time": 921,
     "timeDay": 572,
@@ -350,7 +351,7 @@
       "2026-08-31": 1134,
       "2026-09-01": 1111,
       "2026-09-02": 1147,
-      "2026-09-03": 1060
+      "2026-09-03": 1071
     }
   },
   {
@@ -638,12 +639,12 @@
     "slug": "tools-domainesia",
     "status": "up",
     "uptime": "98.61%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.77%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.78%",
     "uptimeYear": "98.61%",
     "time": 2226,
-    "timeDay": 3101,
+    "timeDay": 2132,
     "timeWeek": 3104,
     "timeMonth": 2902,
     "timeYear": 2226,
@@ -662,8 +663,7 @@
       "2026-04-30": 90,
       "2026-08-07": 54,
       "2026-08-18": 16,
-      "2026-08-19": 27,
-      "2026-09-03": 4
+      "2026-08-19": 27
     }
   },
   {
@@ -722,7 +722,7 @@
     "uptime": "87.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "87.57%",
+    "uptimeMonth": "87.60%",
     "uptimeYear": "86.14%",
     "time": 748,
     "timeDay": 497,
