@@ -130,15 +130,15 @@
     "slug": "ad-guard-domainesia",
     "status": "up",
     "uptime": "96.93%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "96.93%",
-    "time": 2487,
-    "timeDay": 3300,
-    "timeWeek": 3238,
-    "timeMonth": 3015,
-    "timeYear": 2487,
+    "time": 2495,
+    "timeDay": 3378,
+    "timeWeek": 3266,
+    "timeMonth": 3030,
+    "timeYear": 2495,
     "dailyMinutesDown": {
       "2025-10-07": 18,
       "2025-11-13": 38,
@@ -163,7 +163,7 @@
       "2026-08-07": 55,
       "2026-08-17": 25,
       "2026-08-20": 70,
-      "2026-09-03": 5
+      "2026-09-03": 3
     }
   },
   {
@@ -267,7 +267,7 @@
       "2026-02-21": 1440,
       "2026-02-20": 536,
       "2026-04-21": 62,
-      "2026-09-03": 1196,
+      "2026-09-03": 1208,
       "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
@@ -339,8 +339,8 @@
     "status": "down",
     "uptime": "99.22%",
     "uptimeDay": "16.44%",
-    "uptimeWeek": "55.27%",
-    "uptimeMonth": "89.71%",
+    "uptimeWeek": "55.15%",
+    "uptimeMonth": "89.68%",
     "uptimeYear": "99.14%",
     "time": 922,
     "timeDay": 564,
@@ -352,7 +352,7 @@
       "2026-08-31": 1168,
       "2026-09-01": 1111,
       "2026-09-02": 1147,
-      "2026-09-03": 983
+      "2026-09-03": 994
     }
   },
   {
@@ -645,7 +645,7 @@
     "uptimeMonth": "99.78%",
     "uptimeYear": "98.61%",
     "time": 2226,
-    "timeDay": 3105,
+    "timeDay": 3162,
     "timeWeek": 3127,
     "timeMonth": 2912,
     "timeYear": 2226,
@@ -723,7 +723,7 @@
     "uptime": "87.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "87.34%",
+    "uptimeMonth": "87.36%",
     "uptimeYear": "86.14%",
     "time": 748,
     "timeDay": 497,
@@ -841,7 +841,7 @@
     "uptime": "98.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "90.98%",
+    "uptimeMonth": "91.00%",
     "uptimeYear": "98.24%",
     "time": 810,
     "timeDay": 1154,
