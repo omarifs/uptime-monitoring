@@ -130,9 +130,9 @@
     "slug": "ad-guard-domainesia",
     "status": "up",
     "uptime": "96.93%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.64%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.66%",
     "uptimeYear": "96.93%",
     "time": 2493,
     "timeDay": 3098,
@@ -162,8 +162,7 @@
       "2026-04-30": 94,
       "2026-08-07": 55,
       "2026-08-17": 25,
-      "2026-08-20": 70,
-      "2026-09-03": 6
+      "2026-08-20": 70
     }
   },
   {
@@ -267,7 +266,7 @@
       "2026-02-21": 1440,
       "2026-02-20": 536,
       "2026-04-21": 62,
-      "2026-09-03": 1316,
+      "2026-09-03": 1320,
       "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
@@ -339,7 +338,7 @@
     "status": "down",
     "uptime": "99.23%",
     "uptimeDay": "17.57%",
-    "uptimeWeek": "55.65%",
+    "uptimeWeek": "55.61%",
     "uptimeMonth": "89.79%",
     "uptimeYear": "99.15%",
     "time": 921,
@@ -351,7 +350,7 @@
       "2026-08-31": 1134,
       "2026-09-01": 1111,
       "2026-09-02": 1147,
-      "2026-09-03": 1077
+      "2026-09-03": 1082
     }
   },
   {
@@ -637,17 +636,17 @@
     "url": "https://tools.tsdn.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/tools.tsdn.my.id.ico",
     "slug": "tools-domainesia",
-    "status": "up",
+    "status": "down",
     "uptime": "98.61%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "98.61%",
-    "time": 2226,
-    "timeDay": 2142,
-    "timeWeek": 3104,
+    "time": 2227,
+    "timeDay": 2129,
+    "timeWeek": 3102,
     "timeMonth": 2902,
-    "timeYear": 2226,
+    "timeYear": 2227,
     "dailyMinutesDown": {
       "2025-10-07": 19,
       "2025-11-18": 122,
@@ -663,7 +662,8 @@
       "2026-04-30": 90,
       "2026-08-07": 54,
       "2026-08-18": 16,
-      "2026-08-19": 27
+      "2026-08-19": 27,
+      "2026-09-03": 2
     }
   },
   {
@@ -722,7 +722,7 @@
     "uptime": "87.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "87.61%",
+    "uptimeMonth": "87.62%",
     "uptimeYear": "86.14%",
     "time": 748,
     "timeDay": 497,
