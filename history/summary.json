@@ -266,7 +266,7 @@
       "2026-02-21": 1440,
       "2026-02-20": 536,
       "2026-04-21": 62,
-      "2026-09-03": 961,
+      "2026-09-03": 978,
       "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
@@ -336,10 +336,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/flask.websolusi.com.ico",
     "slug": "flask-websolusi",
     "status": "down",
-    "uptime": "99.21%",
+    "uptime": "99.20%",
     "uptimeDay": "16.98%",
-    "uptimeWeek": "54.29%",
-    "uptimeMonth": "89.48%",
+    "uptimeWeek": "54.12%",
+    "uptimeMonth": "89.44%",
     "uptimeYear": "99.12%",
     "time": 925,
     "timeDay": 675,
@@ -351,7 +351,7 @@
       "2026-08-31": 1168,
       "2026-09-01": 1111,
       "2026-09-02": 1147,
-      "2026-09-03": 772
+      "2026-09-03": 789
     }
   },
   {
@@ -637,17 +637,17 @@
     "url": "https://tools.tsdn.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/tools.tsdn.my.id.ico",
     "slug": "tools-domainesia",
-    "status": "up",
+    "status": "down",
     "uptime": "98.60%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.78%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "98.60%",
-    "time": 2235,
-    "timeDay": 3599,
-    "timeWeek": 3299,
-    "timeMonth": 2988,
-    "timeYear": 2235,
+    "time": 2237,
+    "timeDay": 3697,
+    "timeWeek": 3300,
+    "timeMonth": 2990,
+    "timeYear": 2237,
     "dailyMinutesDown": {
       "2025-10-07": 19,
       "2025-11-18": 122,
@@ -663,7 +663,8 @@
       "2026-04-30": 90,
       "2026-08-07": 54,
       "2026-08-18": 16,
-      "2026-08-19": 27
+      "2026-08-19": 27,
+      "2026-09-03": 2
     }
   },
   {
@@ -722,7 +723,7 @@
     "uptime": "87.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "86.80%",
+    "uptimeMonth": "86.84%",
     "uptimeYear": "86.14%",
     "time": 748,
     "timeDay": 497,
@@ -837,17 +838,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/live.websolusi.com.ico",
     "slug": "monit-server-lessie",
     "status": "up",
-    "uptime": "98.42%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "90.75%",
-    "uptimeYear": "98.25%",
+    "uptime": "98.41%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "90.77%",
+    "uptimeYear": "98.24%",
     "time": 811,
     "timeDay": 1136,
     "timeWeek": 728,
     "timeMonth": 683,
     "timeYear": 804,
     "dailyMinutesDown": {
+      "2026-07-11": 58,
       "2026-07-12": 173,
       "2026-07-13": 184,
       "2026-07-14": 143,
@@ -887,8 +889,7 @@
       "2026-08-18": 18,
       "2026-08-19": 24,
       "2026-08-20": 35,
-      "2026-08-27": 4,
-      "2026-09-03": 5
+      "2026-08-27": 4
     }
   },
   {
