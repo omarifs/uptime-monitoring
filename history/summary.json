@@ -130,9 +130,9 @@
     "slug": "ad-guard-domainesia",
     "status": "up",
     "uptime": "96.93%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.64%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.66%",
     "uptimeYear": "96.93%",
     "time": 2479,
     "timeDay": 3350,
@@ -162,8 +162,7 @@
       "2026-04-30": 94,
       "2026-08-07": 55,
       "2026-08-17": 25,
-      "2026-08-20": 70,
-      "2026-09-03": 6
+      "2026-08-20": 70
     }
   },
   {
@@ -267,7 +266,7 @@
       "2026-02-21": 1440,
       "2026-02-20": 536,
       "2026-04-21": 62,
-      "2026-09-03": 1025,
+      "2026-09-03": 1029,
       "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
@@ -339,8 +338,8 @@
     "status": "down",
     "uptime": "99.20%",
     "uptimeDay": "17.32%",
-    "uptimeWeek": "54.08%",
-    "uptimeMonth": "89.43%",
+    "uptimeWeek": "54.04%",
+    "uptimeMonth": "89.42%",
     "uptimeYear": "99.12%",
     "time": 925,
     "timeDay": 673,
@@ -352,7 +351,7 @@
       "2026-08-31": 1168,
       "2026-09-01": 1111,
       "2026-09-02": 1147,
-      "2026-09-03": 831
+      "2026-09-03": 835
     }
   },
   {
@@ -638,17 +637,17 @@
     "url": "https://tools.tsdn.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/tools.tsdn.my.id.ico",
     "slug": "tools-domainesia",
-    "status": "down",
+    "status": "up",
     "uptime": "98.60%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.78%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "98.60%",
-    "time": 2237,
-    "timeDay": 3637,
-    "timeWeek": 3265,
-    "timeMonth": 2976,
-    "timeYear": 2237,
+    "time": 2234,
+    "timeDay": 3527,
+    "timeWeek": 3246,
+    "timeMonth": 2967,
+    "timeYear": 2234,
     "dailyMinutesDown": {
       "2025-10-07": 19,
       "2025-11-18": 122,
@@ -665,7 +664,7 @@
       "2026-08-07": 54,
       "2026-08-18": 16,
       "2026-08-19": 27,
-      "2026-09-03": 2
+      "2026-09-03": 4
     }
   },
   {
@@ -724,7 +723,7 @@
     "uptime": "87.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "86.95%",
+    "uptimeMonth": "86.96%",
     "uptimeYear": "86.14%",
     "time": 748,
     "timeDay": 497,
