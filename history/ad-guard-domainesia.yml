@@ -1,7 +1,7 @@
 url: https://dns.tsdn.my.id
-status: up
-code: 200
-responseTime: 1419
-lastUpdated: 2026-09-03T00:56:57.372Z
+status: down
+code: 522
+responseTime: 20356
+lastUpdated: 2026-09-03T07:59:18.690Z
 startTime: 2025-10-07T06:49:48.523Z
 generator: Upptime <https://github.com/upptime/upptime>
