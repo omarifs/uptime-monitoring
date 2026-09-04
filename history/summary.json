@@ -265,7 +265,7 @@
       "2026-02-21": 1440,
       "2026-02-20": 536,
       "2026-04-21": 62,
-      "2026-09-04": 664,
+      "2026-09-04": 668,
       "2026-09-03": 1440,
       "2026-09-02": 1440,
       "2026-09-01": 1440,
@@ -338,8 +338,8 @@
     "status": "down",
     "uptime": "99.23%",
     "uptimeDay": "22.79%",
-    "uptimeWeek": "55.35%",
-    "uptimeMonth": "89.73%",
+    "uptimeWeek": "55.31%",
+    "uptimeMonth": "89.72%",
     "uptimeYear": "99.14%",
     "time": 922,
     "timeDay": 597,
@@ -351,7 +351,7 @@
       "2026-09-01": 1111,
       "2026-09-02": 1147,
       "2026-09-03": 1188,
-      "2026-09-04": 442
+      "2026-09-04": 446
     }
   },
   {
@@ -637,17 +637,17 @@
     "url": "https://tools.tsdn.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/tools.tsdn.my.id.ico",
     "slug": "tools-domainesia",
-    "status": "down",
+    "status": "up",
     "uptime": "98.61%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.78%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "98.61%",
-    "time": 2257,
-    "timeDay": 2487,
-    "timeWeek": 3104,
-    "timeMonth": 2919,
-    "timeYear": 2257,
+    "time": 2256,
+    "timeDay": 2468,
+    "timeWeek": 3094,
+    "timeMonth": 2914,
+    "timeYear": 2256,
     "dailyMinutesDown": {
       "2025-10-07": 19,
       "2025-11-18": 122,
@@ -664,7 +664,7 @@
       "2026-08-07": 54,
       "2026-08-18": 16,
       "2026-08-19": 27,
-      "2026-09-04": 2
+      "2026-09-04": 4
     }
   },
   {
@@ -723,7 +723,7 @@
     "uptime": "87.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "89.41%",
+    "uptimeMonth": "89.42%",
     "uptimeYear": "86.14%",
     "time": 748,
     "timeDay": 0,
