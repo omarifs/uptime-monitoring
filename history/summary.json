@@ -168,11 +168,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dns.websolusi.com.ico",
     "slug": "ad-guard-websolusi",
     "status": "down",
-    "uptime": "63.95%",
+    "uptime": "63.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "60.78%",
+    "uptimeYear": "60.76%",
     "time": 1190,
     "timeDay": 0,
     "timeWeek": 467,
@@ -263,7 +263,7 @@
       "2026-02-21": 1440,
       "2026-02-20": 536,
       "2026-04-21": 62,
-      "2026-09-08": 528,
+      "2026-09-08": 594,
       "2026-09-07": 1440,
       "2026-09-06": 1440,
       "2026-09-05": 1440,
@@ -337,14 +337,14 @@
     "url": "https://flask.websolusi.com",
     "icon": "https://icons.duckduckgo.com/ip3/flask.websolusi.com.ico",
     "slug": "flask-websolusi",
-    "status": "down",
-    "uptime": "99.38%",
-    "uptimeDay": "24.53%",
-    "uptimeWeek": "64.08%",
-    "uptimeMonth": "91.73%",
-    "uptimeYear": "99.31%",
+    "status": "up",
+    "uptime": "99.37%",
+    "uptimeDay": "23.26%",
+    "uptimeWeek": "63.43%",
+    "uptimeMonth": "91.59%",
+    "uptimeYear": "99.30%",
     "time": 905,
-    "timeDay": 819,
+    "timeDay": 835,
     "timeWeek": 623,
     "timeMonth": 604,
     "timeYear": 875,
@@ -353,7 +353,7 @@
       "2026-09-05": 932,
       "2026-09-06": 974,
       "2026-09-07": 1107,
-      "2026-09-08": 369
+      "2026-09-08": 435
     }
   },
   {
@@ -363,9 +363,9 @@
     "slug": "whatsapp-gateway",
     "status": "up",
     "uptime": "96.88%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.25%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.26%",
     "uptimeYear": "96.88%",
     "time": 724,
     "timeDay": 10148,
@@ -373,7 +373,7 @@
     "timeMonth": 1209,
     "timeYear": 724,
     "dailyMinutesDown": {
-      "2026-03-28": 35,
+      "2026-03-28": 71,
       "2026-04-04": 34,
       "2026-04-05": 19,
       "2026-04-07": 280,
@@ -429,8 +429,7 @@
       "2026-07-05": 511,
       "2026-07-06": 471,
       "2026-07-07": 250,
-      "2026-08-14": 324,
-      "2026-09-08": 6
+      "2026-08-14": 324
     }
   },
   {
@@ -571,17 +570,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/kbtktamanbahagia.sch.id.ico",
     "slug": "kb-tk-taman-bahagia",
     "status": "up",
-    "uptime": "98.93%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "98.80%",
+    "uptime": "98.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "98.79%",
     "time": 1374,
     "timeDay": 10536,
     "timeWeek": 3981,
     "timeMonth": 2913,
     "timeYear": 1369,
     "dailyMinutesDown": {
+      "2026-02-28": 80,
       "2026-03-01": 374,
       "2026-03-02": 84,
       "2026-03-03": 4,
@@ -630,8 +630,7 @@
       "2026-05-21": 451,
       "2026-05-22": 491,
       "2026-05-24": 124,
-      "2026-08-19": 83,
-      "2026-09-08": 5
+      "2026-08-19": 83
     }
   },
   {
@@ -722,9 +721,9 @@
     "slug": "websolusi",
     "status": "up",
     "uptime": "87.60%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "97.81%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "97.82%",
     "uptimeYear": "86.14%",
     "time": 751,
     "timeDay": 10073,
@@ -732,6 +731,7 @@
     "timeMonth": 973,
     "timeYear": 719,
     "dailyMinutesDown": {
+      "2026-03-18": 27,
       "2026-03-20": 52,
       "2026-03-21": 43,
       "2026-03-22": 163,
@@ -829,8 +829,7 @@
       "2026-06-25": 337,
       "2026-08-14": 324,
       "2026-08-18": 448,
-      "2026-08-19": 182,
-      "2026-09-08": 4
+      "2026-08-19": 182
     }
   },
   {
@@ -838,19 +837,18 @@
     "url": "https://live.websolusi.com",
     "icon": "https://icons.duckduckgo.com/ip3/live.websolusi.com.ico",
     "slug": "monit-server-lessie",
-    "status": "up",
-    "uptime": "98.43%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "93.50%",
-    "uptimeYear": "98.25%",
+    "status": "down",
+    "uptime": "98.46%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "93.49%",
+    "uptimeYear": "98.28%",
     "time": 806,
-    "timeDay": 658,
+    "timeDay": 659,
     "timeWeek": 749,
     "timeMonth": 693,
     "timeYear": 794,
     "dailyMinutesDown": {
-      "2026-07-12": 173,
       "2026-07-13": 184,
       "2026-07-14": 143,
       "2026-07-15": 322,
@@ -890,7 +888,8 @@
       "2026-08-19": 24,
       "2026-08-20": 35,
       "2026-08-27": 4,
-      "2026-09-07": 4
+      "2026-09-07": 4,
+      "2026-09-08": 3
     }
   },
   {
