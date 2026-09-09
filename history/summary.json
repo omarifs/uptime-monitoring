@@ -133,7 +133,7 @@
     "uptimeYear": "96.98%",
     "time": 2483,
     "timeDay": 1752,
-    "timeWeek": 2711,
+    "timeWeek": 2772,
     "timeMonth": 2936,
     "timeYear": 2483,
     "dailyMinutesDown": {
@@ -263,7 +263,7 @@
       "2026-02-21": 1440,
       "2026-02-20": 536,
       "2026-04-21": 62,
-      "2026-09-09": 1262,
+      "2026-09-09": 1300,
       "2026-09-08": 1440,
       "2026-09-07": 1440,
       "2026-09-06": 1440,
@@ -338,22 +338,22 @@
     "url": "https://flask.websolusi.com",
     "icon": "https://icons.duckduckgo.com/ip3/flask.websolusi.com.ico",
     "slug": "flask-websolusi",
-    "status": "down",
+    "status": "up",
     "uptime": "99.37%",
-    "uptimeDay": "24.31%",
-    "uptimeWeek": "63.27%",
-    "uptimeMonth": "91.55%",
-    "uptimeYear": "99.30%",
+    "uptimeDay": "22.79%",
+    "uptimeWeek": "62.91%",
+    "uptimeMonth": "91.47%",
+    "uptimeYear": "99.29%",
     "time": 897,
-    "timeDay": 599,
-    "timeWeek": 607,
+    "timeDay": 600,
+    "timeWeek": 608,
     "timeMonth": 603,
     "timeYear": 870,
     "dailyMinutesDown": {
       "2026-09-06": 537,
       "2026-09-07": 1107,
       "2026-09-08": 1098,
-      "2026-09-09": 963
+      "2026-09-09": 999
     }
   },
   {
@@ -646,7 +646,7 @@
     "uptimeYear": "98.63%",
     "time": 2238,
     "timeDay": 988,
-    "timeWeek": 2820,
+    "timeWeek": 2825,
     "timeMonth": 2707,
     "timeYear": 2238,
     "dailyMinutesDown": {
@@ -837,14 +837,14 @@
     "url": "https://live.websolusi.com",
     "icon": "https://icons.duckduckgo.com/ip3/live.websolusi.com.ico",
     "slug": "monit-server-lessie",
-    "status": "up",
+    "status": "down",
     "uptime": "98.47%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "94.67%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "94.68%",
     "uptimeYear": "98.28%",
     "time": 802,
-    "timeDay": 672,
+    "timeDay": 657,
     "timeWeek": 758,
     "timeMonth": 697,
     "timeYear": 793,
@@ -889,7 +889,7 @@
       "2026-08-20": 35,
       "2026-08-27": 4,
       "2026-09-07": 4,
-      "2026-09-09": 5
+      "2026-09-09": 2
     }
   },
   {
