@@ -133,7 +133,7 @@
     "uptimeYear": "96.99%",
     "time": 2483,
     "timeDay": 1752,
-    "timeWeek": 2851,
+    "timeWeek": 2858,
     "timeMonth": 2942,
     "timeYear": 2483,
     "dailyMinutesDown": {
@@ -263,7 +263,7 @@
       "2026-02-21": 1440,
       "2026-02-20": 536,
       "2026-04-21": 62,
-      "2026-09-09": 1414,
+      "2026-09-09": 1422,
       "2026-09-08": 1440,
       "2026-09-07": 1440,
       "2026-09-06": 1440,
@@ -338,11 +338,11 @@
     "url": "https://flask.websolusi.com",
     "icon": "https://icons.duckduckgo.com/ip3/flask.websolusi.com.ico",
     "slug": "flask-websolusi",
-    "status": "up",
-    "uptime": "99.36%",
-    "uptimeDay": "23.02%",
-    "uptimeWeek": "62.80%",
-    "uptimeMonth": "91.44%",
+    "status": "down",
+    "uptime": "99.37%",
+    "uptimeDay": "24.22%",
+    "uptimeWeek": "62.94%",
+    "uptimeMonth": "91.47%",
     "uptimeYear": "99.29%",
     "time": 897,
     "timeDay": 631,
@@ -353,7 +353,7 @@
       "2026-09-06": 458,
       "2026-09-07": 1107,
       "2026-09-08": 1098,
-      "2026-09-09": 1089
+      "2026-09-09": 1075
     }
   },
   {
@@ -646,7 +646,7 @@
     "uptimeYear": "98.63%",
     "time": 2238,
     "timeDay": 988,
-    "timeWeek": 2311,
+    "timeWeek": 2243,
     "timeMonth": 2714,
     "timeYear": 2238,
     "dailyMinutesDown": {
@@ -837,11 +837,11 @@
     "url": "https://live.websolusi.com",
     "icon": "https://icons.duckduckgo.com/ip3/live.websolusi.com.ico",
     "slug": "monit-server-lessie",
-    "status": "down",
+    "status": "up",
     "uptime": "98.47%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "94.88%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "94.87%",
     "uptimeYear": "98.28%",
     "time": 799,
     "timeDay": 663,
@@ -889,7 +889,7 @@
       "2026-08-20": 35,
       "2026-08-27": 4,
       "2026-09-07": 4,
-      "2026-09-09": 3
+      "2026-09-09": 8
     }
   },
   {
