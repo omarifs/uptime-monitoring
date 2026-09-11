@@ -72,7 +72,7 @@
     "timeDay": 1326,
     "timeWeek": 2293,
     "timeMonth": 2362,
-    "timeYear": 3522,
+    "timeYear": 3526,
     "dailyMinutesDown": {
       "2025-09-24": 22,
       "2025-09-23": 8,
@@ -263,7 +263,7 @@
       "2026-02-21": 1440,
       "2026-02-20": 536,
       "2026-04-21": 62,
-      "2026-09-11": 1388,
+      "2026-09-11": 1396,
       "2026-09-10": 1440,
       "2026-09-09": 1440,
       "2026-09-08": 1440,
@@ -340,14 +340,14 @@
     "url": "https://flask.websolusi.com",
     "icon": "https://icons.duckduckgo.com/ip3/flask.websolusi.com.ico",
     "slug": "flask-websolusi",
-    "status": "down",
+    "status": "up",
     "uptime": "99.31%",
-    "uptimeDay": "21.78%",
-    "uptimeWeek": "59.55%",
-    "uptimeMonth": "90.69%",
+    "uptimeDay": "21.83%",
+    "uptimeWeek": "59.48%",
+    "uptimeMonth": "90.68%",
     "uptimeYear": "99.22%",
     "time": 889,
-    "timeDay": 543,
+    "timeDay": 545,
     "timeWeek": 609,
     "timeMonth": 601,
     "timeYear": 859,
@@ -355,7 +355,7 @@
       "2026-09-08": 950,
       "2026-09-09": 1079,
       "2026-09-10": 967,
-      "2026-09-11": 1080
+      "2026-09-11": 1087
     }
   },
   {
@@ -449,7 +449,7 @@
     "timeDay": 645,
     "timeWeek": 1244,
     "timeMonth": 1443,
-    "timeYear": 1334,
+    "timeYear": 1335,
     "dailyMinutesDown": {
       "2025-09-23": 1384,
       "2025-09-22": 1440,
@@ -530,7 +530,7 @@
     "timeDay": 1031,
     "timeWeek": 1559,
     "timeMonth": 2875,
-    "timeYear": 2484,
+    "timeYear": 2487,
     "dailyMinutesDown": {
       "2025-09-16": 9,
       "2025-09-22": 1027,
@@ -684,7 +684,7 @@
     "timeDay": 506,
     "timeWeek": 692,
     "timeMonth": 643,
-    "timeYear": 919,
+    "timeYear": 918,
     "dailyMinutesDown": {
       "2025-09-25": 115,
       "2025-09-26": 52,
@@ -839,14 +839,14 @@
     "url": "https://live.websolusi.com",
     "icon": "https://icons.duckduckgo.com/ip3/live.websolusi.com.ico",
     "slug": "monit-server-lessie",
-    "status": "up",
+    "status": "down",
     "uptime": "98.50%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "96.68%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "96.69%",
     "uptimeYear": "98.31%",
     "time": 801,
-    "timeDay": 668,
+    "timeDay": 667,
     "timeWeek": 723,
     "timeMonth": 704,
     "timeYear": 792,
@@ -892,7 +892,7 @@
       "2026-08-27": 4,
       "2026-09-07": 4,
       "2026-09-10": 4,
-      "2026-09-11": 4
+      "2026-09-11": 2
     }
   },
   {
