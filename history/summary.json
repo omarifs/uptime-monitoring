@@ -13,7 +13,7 @@
     "time": 5729,
     "timeDay": 13643,
     "timeWeek": 15201,
-    "timeMonth": 16720,
+    "timeMonth": 16543,
     "timeYear": 5425,
     "dailyMinutesDown": {
       "2025-09-25": 111,
@@ -71,7 +71,7 @@
     "time": 3535,
     "timeDay": 1326,
     "timeWeek": 2293,
-    "timeMonth": 2362,
+    "timeMonth": 2387,
     "timeYear": 3526,
     "dailyMinutesDown": {
       "2025-09-24": 22,
@@ -134,7 +134,7 @@
     "time": 2481,
     "timeDay": 1428,
     "timeWeek": 2165,
-    "timeMonth": 2940,
+    "timeMonth": 2944,
     "timeYear": 2481,
     "dailyMinutesDown": {
       "2025-10-07": 18,
@@ -172,11 +172,11 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "59.79%",
+    "uptimeYear": "59.78%",
     "time": 1186,
     "timeDay": 392,
     "timeWeek": 466,
-    "timeMonth": 516,
+    "timeMonth": 517,
     "timeYear": 1195,
     "dailyMinutesDown": {
       "2025-09-25": 338,
@@ -263,7 +263,7 @@
       "2026-02-21": 1440,
       "2026-02-20": 536,
       "2026-04-21": 62,
-      "2026-09-11": 1414,
+      "2026-09-11": 1424,
       "2026-09-10": 1440,
       "2026-09-09": 1440,
       "2026-09-08": 1440,
@@ -340,14 +340,14 @@
     "url": "https://flask.websolusi.com",
     "icon": "https://icons.duckduckgo.com/ip3/flask.websolusi.com.ico",
     "slug": "flask-websolusi",
-    "status": "down",
+    "status": "up",
     "uptime": "99.31%",
-    "uptimeDay": "23.24%",
-    "uptimeWeek": "59.55%",
-    "uptimeMonth": "90.69%",
+    "uptimeDay": "23.29%",
+    "uptimeWeek": "59.45%",
+    "uptimeMonth": "90.67%",
     "uptimeYear": "99.22%",
     "time": 889,
-    "timeDay": 544,
+    "timeDay": 543,
     "timeWeek": 609,
     "timeMonth": 601,
     "timeYear": 858,
@@ -355,7 +355,7 @@
       "2026-09-08": 950,
       "2026-09-09": 1079,
       "2026-09-10": 967,
-      "2026-09-11": 1080
+      "2026-09-11": 1090
     }
   },
   {
@@ -372,7 +372,7 @@
     "time": 724,
     "timeDay": 445,
     "timeWeek": 2955,
-    "timeMonth": 1221,
+    "timeMonth": 1243,
     "timeYear": 724,
     "dailyMinutesDown": {
       "2026-03-28": 71,
@@ -448,7 +448,7 @@
     "time": 1363,
     "timeDay": 645,
     "timeWeek": 1244,
-    "timeMonth": 1443,
+    "timeMonth": 1436,
     "timeYear": 1335,
     "dailyMinutesDown": {
       "2025-09-23": 1384,
@@ -529,7 +529,7 @@
     "time": 2357,
     "timeDay": 1031,
     "timeWeek": 1559,
-    "timeMonth": 2875,
+    "timeMonth": 2920,
     "timeYear": 2487,
     "dailyMinutesDown": {
       "2025-09-16": 9,
@@ -580,7 +580,7 @@
     "time": 1374,
     "timeDay": 1702,
     "timeWeek": 3741,
-    "timeMonth": 2899,
+    "timeMonth": 2941,
     "timeYear": 1369,
     "dailyMinutesDown": {
       "2026-02-28": 80,
@@ -649,7 +649,7 @@
     "time": 2234,
     "timeDay": 909,
     "timeWeek": 835,
-    "timeMonth": 2705,
+    "timeMonth": 2711,
     "timeYear": 2234,
     "dailyMinutesDown": {
       "2025-10-07": 19,
@@ -683,7 +683,7 @@
     "time": 1020,
     "timeDay": 506,
     "timeWeek": 692,
-    "timeMonth": 643,
+    "timeMonth": 645,
     "timeYear": 918,
     "dailyMinutesDown": {
       "2025-09-25": 115,
@@ -730,7 +730,7 @@
     "time": 751,
     "timeDay": 429,
     "timeWeek": 2908,
-    "timeMonth": 976,
+    "timeMonth": 984,
     "timeYear": 719,
     "dailyMinutesDown": {
       "2026-03-18": 27,
@@ -839,14 +839,14 @@
     "url": "https://live.websolusi.com",
     "icon": "https://icons.duckduckgo.com/ip3/live.websolusi.com.ico",
     "slug": "monit-server-lessie",
-    "status": "up",
+    "status": "down",
     "uptime": "98.50%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "96.69%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "96.71%",
     "uptimeYear": "98.31%",
     "time": 801,
-    "timeDay": 673,
+    "timeDay": 670,
     "timeWeek": 724,
     "timeMonth": 704,
     "timeYear": 792,
@@ -892,7 +892,7 @@
       "2026-08-27": 4,
       "2026-09-07": 4,
       "2026-09-10": 4,
-      "2026-09-11": 4
+      "2026-09-11": 2
     }
   },
   {
@@ -909,7 +909,7 @@
     "time": 213,
     "timeDay": 183,
     "timeWeek": 197,
-    "timeMonth": 206,
+    "timeMonth": 204,
     "timeYear": 212,
     "dailyMinutesDown": {
       "2025-09-24": 421,
@@ -933,7 +933,7 @@
     "time": 223,
     "timeDay": 192,
     "timeWeek": 207,
-    "timeMonth": 214,
+    "timeMonth": 213,
     "timeYear": 221,
     "dailyMinutesDown": {
       "2026-01-16": 49,
@@ -954,7 +954,7 @@
     "time": 229,
     "timeDay": 210,
     "timeWeek": 220,
-    "timeMonth": 223,
+    "timeMonth": 222,
     "timeYear": 228,
     "dailyMinutesDown": {
       "2025-11-22": 55,
