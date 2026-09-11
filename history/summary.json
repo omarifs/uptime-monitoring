@@ -133,7 +133,7 @@
     "uptimeYear": "97.00%",
     "time": 2481,
     "timeDay": 1428,
-    "timeWeek": 2151,
+    "timeWeek": 2198,
     "timeMonth": 2940,
     "timeYear": 2481,
     "dailyMinutesDown": {
@@ -263,7 +263,7 @@
       "2026-02-21": 1440,
       "2026-02-20": 536,
       "2026-04-21": 62,
-      "2026-09-11": 547,
+      "2026-09-11": 566,
       "2026-09-10": 1440,
       "2026-09-09": 1440,
       "2026-09-08": 1440,
@@ -340,11 +340,11 @@
     "url": "https://flask.websolusi.com",
     "icon": "https://icons.duckduckgo.com/ip3/flask.websolusi.com.ico",
     "slug": "flask-websolusi",
-    "status": "down",
+    "status": "up",
     "uptime": "99.37%",
-    "uptimeDay": "30.55%",
-    "uptimeWeek": "63.03%",
-    "uptimeMonth": "91.49%",
+    "uptimeDay": "30.39%",
+    "uptimeWeek": "62.85%",
+    "uptimeMonth": "91.45%",
     "uptimeYear": "99.29%",
     "time": 889,
     "timeDay": 596,
@@ -356,7 +356,7 @@
       "2026-09-08": 1098,
       "2026-09-09": 1079,
       "2026-09-10": 967,
-      "2026-09-11": 396
+      "2026-09-11": 414
     }
   },
   {
@@ -840,15 +840,15 @@
     "url": "https://live.websolusi.com",
     "icon": "https://icons.duckduckgo.com/ip3/live.websolusi.com.ico",
     "slug": "monit-server-lessie",
-    "status": "up",
+    "status": "down",
     "uptime": "98.50%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "96.46%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "96.51%",
     "uptimeYear": "98.31%",
     "time": 798,
-    "timeDay": 879,
-    "timeWeek": 732,
+    "timeDay": 877,
+    "timeWeek": 731,
     "timeMonth": 707,
     "timeYear": 793,
     "dailyMinutesDown": {
@@ -893,7 +893,7 @@
       "2026-08-27": 4,
       "2026-09-07": 4,
       "2026-09-10": 4,
-      "2026-09-11": 5
+      "2026-09-11": 2
     }
   },
   {
@@ -902,7 +902,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vps-arif",
     "status": "up",
-    "uptime": "97.06%",
+    "uptime": "97.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
