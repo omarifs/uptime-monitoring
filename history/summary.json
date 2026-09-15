@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/agrowisataamanah.id.ico",
     "slug": "agrowisata-amanah",
     "status": "up",
-    "uptime": "94.90%",
+    "uptime": "94.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -172,7 +172,7 @@
     "uptimeDay": "0.32%",
     "uptimeWeek": "0.05%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "58.86%",
+    "uptimeYear": "58.85%",
     "time": 1216,
     "timeDay": 6968,
     "timeWeek": 2937,
@@ -336,7 +336,7 @@
       "2026-07-06": 1440,
       "2026-07-05": 1440,
       "2026-07-04": 1145,
-      "2026-09-15": 551
+      "2026-09-15": 557
     }
   },
   {
@@ -344,14 +344,14 @@
     "url": "https://flask.websolusi.com",
     "icon": "https://icons.duckduckgo.com/ip3/flask.websolusi.com.ico",
     "slug": "flask-websolusi",
-    "status": "down",
+    "status": "up",
     "uptime": "99.00%",
-    "uptimeDay": "11.87%",
-    "uptimeWeek": "40.71%",
-    "uptimeMonth": "86.36%",
+    "uptimeDay": "11.93%",
+    "uptimeWeek": "40.66%",
+    "uptimeMonth": "86.35%",
     "uptimeYear": "98.86%",
     "time": 879,
-    "timeDay": 570,
+    "timeDay": 568,
     "timeWeek": 584,
     "timeMonth": 598,
     "timeYear": 851,
@@ -361,7 +361,7 @@
       "2026-09-12": 1162,
       "2026-09-13": 1361,
       "2026-09-14": 1276,
-      "2026-09-15": 483
+      "2026-09-15": 488
     }
   },
   {
@@ -845,16 +845,16 @@
     "url": "https://live.websolusi.com",
     "icon": "https://icons.duckduckgo.com/ip3/live.websolusi.com.ico",
     "slug": "monit-server-lessie",
-    "status": "up",
-    "uptime": "98.51%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.91%",
+    "status": "down",
+    "uptime": "98.52%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.16%",
     "uptimeYear": "98.31%",
     "time": 797,
-    "timeDay": 1011,
-    "timeWeek": 771,
-    "timeMonth": 714,
+    "timeDay": 1000,
+    "timeWeek": 770,
+    "timeMonth": 713,
     "timeYear": 792,
     "dailyMinutesDown": {
       "2026-07-13": 28,
@@ -898,7 +898,7 @@
       "2026-08-27": 4,
       "2026-09-07": 4,
       "2026-09-10": 4,
-      "2026-09-15": 5
+      "2026-09-15": 3
     }
   },
   {
