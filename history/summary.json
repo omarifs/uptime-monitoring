@@ -336,7 +336,7 @@
       "2026-07-06": 1440,
       "2026-07-05": 1440,
       "2026-07-04": 1145,
-      "2026-09-15": 631
+      "2026-09-15": 640
     }
   },
   {
@@ -347,8 +347,8 @@
     "status": "down",
     "uptime": "99.00%",
     "uptimeDay": "12.68%",
-    "uptimeWeek": "40.56%",
-    "uptimeMonth": "86.32%",
+    "uptimeWeek": "40.48%",
+    "uptimeMonth": "86.30%",
     "uptimeYear": "98.86%",
     "time": 879,
     "timeDay": 569,
@@ -361,7 +361,7 @@
       "2026-09-12": 1162,
       "2026-09-13": 1361,
       "2026-09-14": 1276,
-      "2026-09-15": 546
+      "2026-09-15": 555
     }
   },
   {
@@ -845,19 +845,18 @@
     "url": "https://live.websolusi.com",
     "icon": "https://icons.duckduckgo.com/ip3/live.websolusi.com.ico",
     "slug": "monit-server-lessie",
-    "status": "up",
-    "uptime": "98.51%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.16%",
-    "uptimeYear": "98.31%",
-    "time": 800,
-    "timeDay": 1416,
-    "timeWeek": 817,
-    "timeMonth": 725,
-    "timeYear": 795,
+    "status": "down",
+    "uptime": "98.52%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.14%",
+    "uptimeYear": "98.32%",
+    "time": 802,
+    "timeDay": 1742,
+    "timeWeek": 855,
+    "timeMonth": 734,
+    "timeYear": 797,
     "dailyMinutesDown": {
-      "2026-07-13": 28,
       "2026-07-14": 143,
       "2026-07-15": 322,
       "2026-07-17": 525,
@@ -898,7 +897,7 @@
       "2026-08-27": 4,
       "2026-09-07": 4,
       "2026-09-10": 4,
-      "2026-09-15": 6
+      "2026-09-15": 13
     }
   },
   {
@@ -930,11 +929,11 @@
     "url": "103.123.17.82",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "resolver-17-82",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 223,
     "timeDay": 197,
@@ -943,7 +942,8 @@
     "timeYear": 221,
     "dailyMinutesDown": {
       "2026-01-16": 49,
-      "2026-01-15": 6
+      "2026-01-15": 6,
+      "2026-09-15": 3
     }
   },
   {
@@ -951,11 +951,11 @@
     "url": "103.123.16.118",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vpn-16-118",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.92%",
     "time": 230,
     "timeDay": 203,
@@ -965,7 +965,7 @@
     "dailyMinutesDown": {
       "2025-11-22": 55,
       "2025-11-21": 348,
-      "2026-09-15": 3
+      "2026-09-15": 9
     }
   }
 ]
