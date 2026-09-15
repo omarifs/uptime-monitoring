@@ -336,7 +336,7 @@
       "2026-07-06": 1440,
       "2026-07-05": 1440,
       "2026-07-04": 1145,
-      "2026-09-15": 623
+      "2026-09-15": 631
     }
   },
   {
@@ -347,8 +347,8 @@
     "status": "down",
     "uptime": "99.00%",
     "uptimeDay": "12.68%",
-    "uptimeWeek": "40.65%",
-    "uptimeMonth": "86.34%",
+    "uptimeWeek": "40.56%",
+    "uptimeMonth": "86.32%",
     "uptimeYear": "98.86%",
     "time": 879,
     "timeDay": 569,
@@ -361,7 +361,7 @@
       "2026-09-12": 1162,
       "2026-09-13": 1361,
       "2026-09-14": 1276,
-      "2026-09-15": 538
+      "2026-09-15": 546
     }
   },
   {
@@ -846,17 +846,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/live.websolusi.com.ico",
     "slug": "monit-server-lessie",
     "status": "up",
-    "uptime": "98.52%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.15%",
-    "uptimeYear": "98.32%",
+    "uptime": "98.51%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.16%",
+    "uptimeYear": "98.31%",
     "time": 800,
     "timeDay": 1416,
     "timeWeek": 817,
     "timeMonth": 725,
     "timeYear": 795,
     "dailyMinutesDown": {
+      "2026-07-13": 28,
       "2026-07-14": 143,
       "2026-07-15": 322,
       "2026-07-17": 525,
@@ -897,7 +898,7 @@
       "2026-08-27": 4,
       "2026-09-07": 4,
       "2026-09-10": 4,
-      "2026-09-15": 11
+      "2026-09-15": 6
     }
   },
   {
@@ -950,11 +951,11 @@
     "url": "103.123.16.118",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vpn-16-118",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.92%",
     "time": 230,
     "timeDay": 203,
@@ -963,7 +964,8 @@
     "timeYear": 229,
     "dailyMinutesDown": {
       "2025-11-22": 55,
-      "2025-11-21": 348
+      "2025-11-21": 348,
+      "2026-09-15": 3
     }
   }
 ]
