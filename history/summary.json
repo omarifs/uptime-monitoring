@@ -336,7 +336,7 @@
       "2026-07-06": 1440,
       "2026-07-05": 1440,
       "2026-07-04": 1145,
-      "2026-09-16": 790,
+      "2026-09-16": 795,
       "2026-09-15": 1440
     }
   },
@@ -347,12 +347,12 @@
     "slug": "flask-websolusi",
     "status": "down",
     "uptime": "98.96%",
-    "uptimeDay": "20.48%",
-    "uptimeWeek": "38.30%",
-    "uptimeMonth": "85.80%",
+    "uptimeDay": "20.34%",
+    "uptimeWeek": "38.26%",
+    "uptimeMonth": "85.79%",
     "uptimeYear": "98.82%",
     "time": 877,
-    "timeDay": 548,
+    "timeDay": 547,
     "timeWeek": 581,
     "timeMonth": 596,
     "timeYear": 848,
@@ -362,7 +362,7 @@
       "2026-09-13": 1361,
       "2026-09-14": 1276,
       "2026-09-15": 1195,
-      "2026-09-16": 645
+      "2026-09-16": 650
     }
   },
   {
@@ -727,16 +727,16 @@
     "url": "https://websolusi.com",
     "icon": "https://icons.duckduckgo.com/ip3/websolusi.com.ico",
     "slug": "websolusi",
-    "status": "down",
+    "status": "up",
     "uptime": "87.85%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "98.56%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "98.55%",
     "uptimeYear": "86.14%",
     "time": 746,
-    "timeDay": 505,
-    "timeWeek": 578,
-    "timeMonth": 987,
+    "timeDay": 557,
+    "timeWeek": 589,
+    "timeMonth": 981,
     "timeYear": 718,
     "dailyMinutesDown": {
       "2026-03-20": 52,
@@ -837,7 +837,7 @@
       "2026-08-14": 324,
       "2026-08-18": 448,
       "2026-08-19": 182,
-      "2026-09-16": 3
+      "2026-09-16": 5
     }
   },
   {
@@ -852,7 +852,7 @@
     "uptimeMonth": "99.30%",
     "uptimeYear": "98.31%",
     "time": 813,
-    "timeDay": 1786,
+    "timeDay": 1800,
     "timeWeek": 1031,
     "timeMonth": 776,
     "timeYear": 807,
