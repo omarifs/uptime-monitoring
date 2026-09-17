@@ -14,7 +14,7 @@
     "timeDay": 14137,
     "timeWeek": 14290,
     "timeMonth": 15924,
-    "timeYear": 5378,
+    "timeYear": 5376,
     "dailyMinutesDown": {
       "2025-09-25": 111,
       "2025-09-26": 362,
@@ -172,7 +172,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.05%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "58.23%",
+    "uptimeYear": "58.22%",
     "time": 1214,
     "timeDay": 580,
     "timeWeek": 2951,
@@ -336,7 +336,7 @@
       "2026-07-06": 1440,
       "2026-07-05": 1440,
       "2026-07-04": 1145,
-      "2026-09-17": 968,
+      "2026-09-17": 1036,
       "2026-09-16": 1440,
       "2026-09-15": 1440
     }
@@ -346,15 +346,15 @@
     "url": "https://flask.websolusi.com",
     "icon": "https://icons.duckduckgo.com/ip3/flask.websolusi.com.ico",
     "slug": "flask-websolusi",
-    "status": "down",
-    "uptime": "98.97%",
-    "uptimeDay": "13.09%",
-    "uptimeWeek": "38.85%",
-    "uptimeMonth": "85.93%",
-    "uptimeYear": "98.83%",
+    "status": "up",
+    "uptime": "98.96%",
+    "uptimeDay": "12.83%",
+    "uptimeWeek": "38.20%",
+    "uptimeMonth": "85.78%",
+    "uptimeYear": "98.81%",
     "time": 874,
-    "timeDay": 568,
-    "timeWeek": 562,
+    "timeDay": 574,
+    "timeWeek": 561,
     "timeMonth": 595,
     "timeYear": 845,
     "dailyMinutesDown": {
@@ -363,7 +363,7 @@
       "2026-09-14": 1276,
       "2026-09-15": 1195,
       "2026-09-16": 1189,
-      "2026-09-17": 855
+      "2026-09-17": 921
     }
   },
   {
@@ -846,17 +846,17 @@
     "url": "https://live.websolusi.com",
     "icon": "https://icons.duckduckgo.com/ip3/live.websolusi.com.ico",
     "slug": "monit-server-lessie",
-    "status": "up",
+    "status": "down",
     "uptime": "98.54%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.14%",
-    "uptimeMonth": "99.32%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "99.46%",
     "uptimeYear": "98.33%",
     "time": 812,
-    "timeDay": 665,
-    "timeWeek": 1058,
-    "timeMonth": 773,
-    "timeYear": 806,
+    "timeDay": 729,
+    "timeWeek": 1067,
+    "timeMonth": 775,
+    "timeYear": 807,
     "dailyMinutesDown": {
       "2026-07-15": 322,
       "2026-07-17": 525,
@@ -899,7 +899,7 @@
       "2026-09-10": 4,
       "2026-09-15": 63,
       "2026-09-16": 19,
-      "2026-09-17": 5
+      "2026-09-17": 3
     }
   },
   {
