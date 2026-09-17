@@ -172,7 +172,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.05%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "58.22%",
+    "uptimeYear": "58.21%",
     "time": 1214,
     "timeDay": 580,
     "timeWeek": 2951,
@@ -336,7 +336,7 @@
       "2026-07-06": 1440,
       "2026-07-05": 1440,
       "2026-07-04": 1145,
-      "2026-09-17": 1036,
+      "2026-09-17": 1041,
       "2026-09-16": 1440,
       "2026-09-15": 1440
     }
@@ -346,24 +346,24 @@
     "url": "https://flask.websolusi.com",
     "icon": "https://icons.duckduckgo.com/ip3/flask.websolusi.com.ico",
     "slug": "flask-websolusi",
-    "status": "up",
-    "uptime": "98.96%",
-    "uptimeDay": "12.83%",
-    "uptimeWeek": "38.20%",
-    "uptimeMonth": "85.78%",
-    "uptimeYear": "98.81%",
+    "status": "down",
+    "uptime": "98.97%",
+    "uptimeDay": "13.11%",
+    "uptimeWeek": "38.38%",
+    "uptimeMonth": "85.82%",
+    "uptimeYear": "98.82%",
     "time": 874,
-    "timeDay": 574,
+    "timeDay": 575,
     "timeWeek": 561,
     "timeMonth": 595,
     "timeYear": 845,
     "dailyMinutesDown": {
-      "2026-09-12": 289,
+      "2026-09-12": 269,
       "2026-09-13": 1361,
       "2026-09-14": 1276,
       "2026-09-15": 1195,
       "2026-09-16": 1189,
-      "2026-09-17": 921
+      "2026-09-17": 922
     }
   },
   {
@@ -846,17 +846,17 @@
     "url": "https://live.websolusi.com",
     "icon": "https://icons.duckduckgo.com/ip3/live.websolusi.com.ico",
     "slug": "monit-server-lessie",
-    "status": "down",
+    "status": "up",
     "uptime": "98.54%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.17%",
-    "uptimeMonth": "99.46%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.14%",
+    "uptimeMonth": "99.45%",
     "uptimeYear": "98.33%",
-    "time": 812,
-    "timeDay": 729,
-    "timeWeek": 1067,
-    "timeMonth": 775,
-    "timeYear": 807,
+    "time": 814,
+    "timeDay": 1014,
+    "timeWeek": 1105,
+    "timeMonth": 783,
+    "timeYear": 809,
     "dailyMinutesDown": {
       "2026-07-15": 322,
       "2026-07-17": 525,
@@ -899,7 +899,7 @@
       "2026-09-10": 4,
       "2026-09-15": 63,
       "2026-09-16": 19,
-      "2026-09-17": 3
+      "2026-09-17": 5
     }
   },
   {
