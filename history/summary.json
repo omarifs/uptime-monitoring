@@ -172,7 +172,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.05%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "58.32%",
+    "uptimeYear": "58.31%",
     "time": 1214,
     "timeDay": 580,
     "timeWeek": 2951,
@@ -336,7 +336,7 @@
       "2026-07-06": 1440,
       "2026-07-05": 1440,
       "2026-07-04": 1145,
-      "2026-09-17": 482,
+      "2026-09-17": 520,
       "2026-09-16": 1440,
       "2026-09-15": 1440
     }
@@ -346,14 +346,14 @@
     "url": "https://flask.websolusi.com",
     "icon": "https://icons.duckduckgo.com/ip3/flask.websolusi.com.ico",
     "slug": "flask-websolusi",
-    "status": "down",
-    "uptime": "98.97%",
-    "uptimeDay": "15.33%",
-    "uptimeWeek": "38.41%",
-    "uptimeMonth": "85.83%",
-    "uptimeYear": "98.82%",
+    "status": "up",
+    "uptime": "98.96%",
+    "uptimeDay": "15.06%",
+    "uptimeWeek": "38.05%",
+    "uptimeMonth": "85.74%",
+    "uptimeYear": "98.81%",
     "time": 876,
-    "timeDay": 558,
+    "timeDay": 559,
     "timeWeek": 568,
     "timeMonth": 595,
     "timeYear": 846,
@@ -363,7 +363,7 @@
       "2026-09-14": 1276,
       "2026-09-15": 1195,
       "2026-09-16": 1189,
-      "2026-09-17": 432
+      "2026-09-17": 468
     }
   },
   {
@@ -846,17 +846,17 @@
     "url": "https://live.websolusi.com",
     "icon": "https://icons.duckduckgo.com/ip3/live.websolusi.com.ico",
     "slug": "monit-server-lessie",
-    "status": "up",
+    "status": "down",
     "uptime": "98.54%",
-    "uptimeDay": "98.34%",
-    "uptimeWeek": "99.15%",
-    "uptimeMonth": "99.24%",
+    "uptimeDay": "98.47%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "99.25%",
     "uptimeYear": "98.33%",
     "time": 812,
-    "timeDay": 732,
-    "timeWeek": 1051,
+    "timeDay": 739,
+    "timeWeek": 1054,
     "timeMonth": 773,
-    "timeYear": 807,
+    "timeYear": 806,
     "dailyMinutesDown": {
       "2026-07-15": 322,
       "2026-07-17": 525,
@@ -899,7 +899,7 @@
       "2026-09-10": 4,
       "2026-09-15": 63,
       "2026-09-16": 19,
-      "2026-09-17": 5
+      "2026-09-17": 3
     }
   },
   {
