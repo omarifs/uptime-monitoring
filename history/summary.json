@@ -336,7 +336,7 @@
       "2026-07-06": 1440,
       "2026-07-05": 1440,
       "2026-07-04": 1145,
-      "2026-09-19": 233,
+      "2026-09-19": 254,
       "2026-09-18": 1440,
       "2026-09-17": 1440,
       "2026-09-16": 1440,
@@ -350,12 +350,12 @@
     "slug": "flask-websolusi",
     "status": "down",
     "uptime": "99.13%",
-    "uptimeDay": "8.90%",
-    "uptimeWeek": "48.01%",
-    "uptimeMonth": "88.04%",
+    "uptimeDay": "8.60%",
+    "uptimeWeek": "47.80%",
+    "uptimeMonth": "87.99%",
     "uptimeYear": "99.00%",
     "time": 862,
-    "timeDay": 594,
+    "timeDay": 598,
     "timeWeek": 570,
     "timeMonth": 595,
     "timeYear": 843,
@@ -365,7 +365,7 @@
       "2026-09-16": 1189,
       "2026-09-17": 1255,
       "2026-09-18": 1328,
-      "2026-09-19": 208
+      "2026-09-19": 229
     }
   },
   {
@@ -374,11 +374,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wa.websolusi.com.ico",
     "slug": "whatsapp-gateway",
     "status": "down",
-    "uptime": "96.98%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "96.98%",
+    "uptime": "96.97%",
+    "uptimeDay": "98.42%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "96.97%",
     "time": 724,
     "timeDay": 22,
     "timeWeek": 512,
@@ -442,7 +442,7 @@
       "2026-07-06": 471,
       "2026-07-07": 250,
       "2026-08-14": 324,
-      "2026-09-19": 2
+      "2026-09-19": 23
     }
   },
   {
@@ -684,10 +684,10 @@
     "slug": "tools-websolusi",
     "status": "down",
     "uptime": "92.13%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "94.16%",
+    "uptimeDay": "98.37%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "94.15%",
     "time": 1015,
     "timeDay": 18,
     "timeWeek": 635,
@@ -722,7 +722,7 @@
       "2026-01-14": 1440,
       "2026-01-13": 439,
       "2026-08-14": 324,
-      "2026-09-19": 2
+      "2026-09-19": 23
     }
   },
   {
@@ -732,14 +732,14 @@
     "slug": "websolusi",
     "status": "down",
     "uptime": "87.92%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "86.14%",
     "time": 745,
     "timeDay": 403,
     "timeWeek": 522,
-    "timeMonth": 1109,
+    "timeMonth": 1125,
     "timeYear": 717,
     "dailyMinutesDown": {
       "2026-03-20": 52,
@@ -840,7 +840,7 @@
       "2026-08-14": 324,
       "2026-08-18": 448,
       "2026-08-19": 182,
-      "2026-09-19": 2
+      "2026-09-19": 23
     }
   },
   {
@@ -850,13 +850,13 @@
     "slug": "monit-server-lessie",
     "status": "down",
     "uptime": "98.54%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.17%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "98.33%",
+    "uptimeDay": "98.37%",
+    "uptimeWeek": "98.96%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "98.32%",
     "time": 813,
-    "timeDay": 730,
-    "timeWeek": 1139,
+    "timeDay": 737,
+    "timeWeek": 1144,
     "timeMonth": 782,
     "timeYear": 808,
     "dailyMinutesDown": {
@@ -901,7 +901,7 @@
       "2026-09-10": 4,
       "2026-09-15": 63,
       "2026-09-16": 19,
-      "2026-09-19": 2
+      "2026-09-19": 23
     }
   },
   {
